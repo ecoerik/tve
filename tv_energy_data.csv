@@ -1,0 +1,1049 @@
+﻿unique_id;Device Make;Device Model;source;EPREL_Match;deviceCheck;powerOnModeSDR;reasoning;search_conf;powerStandby;proxyDevice;proxyPower
+Aiwa_Generic 2K TV;Aiwa;Generic 2K TV;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+Aldi_Generic TV;Aldi;Generic TV;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+Amazon_AFTANNA0;Amazon;AFTANNA0;GEMINI_API;no;TV;105;"Value is for the Amazon Fire TV 55"" 4-Series";proxy;;Average Generic;70
+Amazon_AFTB;Amazon;AFTB;GEMINI_API;no;TV;61;Value found on Rtings.com for Amazon Fire TV 4-Series (55-inch).;proxy;;Average Generic;70
+Amazon_AFTCA002;Amazon;AFTCA002;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Amazon_AFTGAZL;Amazon;AFTGAZL;GEMINI_API;no;OTHER;4.17;On-mode power is from the Energy Star certification for the Fire TV Cube (3rd Gen).;proxy;;Average Generic;70
+Amazon_AFTGE224;Amazon;AFTGE224;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Amazon_AFTKA;Amazon;AFTKA;GEMINI_API;no;TV;105;Value from listed wattage of Amazon Fire TV 55-inch 4-Series.;proxy;;Average Generic;70
+Amazon_AFTKADE001;Amazon;AFTKADE001;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Amazon_AFTKAUK001;Amazon;AFTKAUK001;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Amazon_AFTKAUK002;Amazon;AFTKAUK002;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Amazon_AFTKM;Amazon;AFTKM;GEMINI_API;no;TV;127;"Value obtained from a wattage and electricity cost comparison for the ""Fire TV 55″ Omni QLED"".";proxy;;Average Generic;70
+Amazon_AFTKRT;Amazon;AFTKRT;GEMINI_API;no;TV;105;Value for Fire TV 55″ 4-Series found on wattage and electricity cost site.;proxy;;Average Generic;70
+Amazon_AFTMM;Amazon;AFTMM;GEMINI_API;no;TV;127;Found on Amazon Fire TV wattage list for 55-inch Omni QLED.;proxy;;Average Generic;70
+Amazon_AFTN;Amazon;AFTN;GEMINI_API;no;TV;105;"Value from Amazon Fire TV 55"" 4-Series power consumption specifications.";proxy;;Average Generic;70
+Amazon_AFTPOF46A5;Amazon;AFTPOF46A5;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Amazon_AFTR;Amazon;AFTR;GEMINI_API;no;TV;115;"Value from Amazon Fire TV 55"" Omni specifications.";proxy;;Average Generic;70
+Amazon_AFTS;Amazon;AFTS;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Amazon_AFTSS;Amazon;AFTSS;GEMINI_API;no;TV;61;Value obtained from Rtings.com review for Amazon Fire TV 4-Series 55-inch.;proxy;;Average Generic;70
+Amazon_AFTSSS;Amazon;AFTSSS;GEMINI_API;no;TV;61;The SDR on-mode power consumption of 61 W was found in a detailed review by RTINGS.com for the Amazon Fire TV 4-Series (55-Inch;proxy;;Average Generic;70
+Amazon_AFTT;Amazon;AFTT;GEMINI_API;no;TV;61;RTINGS.com lists 61 W for Power Consumption for the 55-inch Amazon Fire TV 4-Series.;proxy;;Average Generic;70
+Amazon_AFTWI001;Amazon;AFTWI001;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Anker_D0480;Anker;D0480;GEMINI_API;no;OTHER;4;Anker D0480 is a Nebula 4K Streaming Dongle with a power consumption of <4W.;strict;;Average Generic;70
+Apollo_Premium 2K TV;Apollo;Premium 2K TV;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Apollo_Premium 4K TV;Apollo;Premium 4K TV;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Apple_TV (tvOS);Apple;TV (tvOS);GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Apple_TV A1625;Apple;TV A1625;GEMINI_API;no;OTHER;2.24;Value from Apple TV HD Environmental Report for Streaming HD movies.;strict;;Average Generic;70
+Apple_TV A1842;Apple;TV A1842;GEMINI_API;no;OTHER;2.86;Value from Apple's 2017 Environmental Report for Apple TV 4K (A1842) streaming 4K movies.;strict;;Average Generic;70
+Apple_TV A2169;Apple;TV A2169;GEMINI_API;no;OTHER;3.21;Found in Apple TV 4K (2nd generation) environmental report for streaming 4K movies.;strict;;Average Generic;70
+Apple_TV A2843;Apple;TV A2843;GEMINI_API;no;OTHER;2.35;Value is streaming 4K movie power consumption for Apple TV 4K (A2843).;strict;;Average Generic;70
+Askey_HY300;Askey;HY300;GEMINI_API;no;PROJECTOR;60;Total power consumption or lamp power for HY300 projector specified as 60W.;strict;;Average Generic;70
+Aurzen_Boom Air;Aurzen;Boom Air;GEMINI_API;no;PROJECTOR;65;Manufacturer specifications indicate 65W PD power input.;strict;;Average Generic;70
+BenQ_QS02;BenQ;QS02;GEMINI_API;no;OTHER;7.5;Power input from BenQ specifications for the QS02 Android TV dongle.;strict;;Average Generic;70
+Blaupunkt_Generic Android TV;Blaupunkt;Generic Android TV;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+Botech_Wzone;Botech;Wzone;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Boxput_Lemon TV Mini;Boxput;Lemon TV Mini;GEMINI_API;no;OTHER;8;Value from Boxput official website specifications for Lemon TV Mini.;strict;;Average Generic;70
+Bulsatcom_UPD-BJ00R;Bulsatcom;UPD-BJ00R;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Canal Digital_Canal  Box;Canal Digital;Canal  Box;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Canal Digital_Canal+ Box;Canal Digital;Canal+ Box;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Changhong_U55H7Ki;Changhong;U55H7Ki;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+DYON_Generic 2K TV;DYON;Generic 2K TV;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+Dangbei_DBOD02;Dangbei;DBOD02;GEMINI_API;no;PROJECTOR;80;Value found in product specifications for model DBOD02.;strict;;Average Generic;70
+Deutsche Telekom_MR201;Deutsche Telekom;MR201;GEMINI_API;no;OTHER;7;Value from official Telekom Media Receiver 201 user manual/technical specifications for operation mode.;strict;;Average Generic;70
+Deutsche Telekom_MR401;Deutsche Telekom;MR401;GEMINI_API;no;OTHER;9;Value from Telekom Media Receiver 401 operation specifications.;strict;;Average Generic;70
+Deutsche Telekom_MR601SAT;Deutsche Telekom;MR601SAT;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Deutsche Telekom_MRG5;Deutsche Telekom;MRG5;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Dual_Generic TV;Dual;Generic TV;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+EKO_Generic Android TV;EKO;Generic Android TV;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+Eon_SDSTB02;Eon;SDSTB02;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Epson_STI6110;Epson;STI6110;GEMINI_API;no;PROJECTOR;331;Value obtained from Epson PowerLite 6110i specifications on Epson's official website.;proxy;;Average Generic;70
+Formuler_Z Mini;Formuler;Z Mini;GEMINI_API;no;OTHER;5;Max. 5W is stated in the technical specifications for Formuler Z Mini.;strict;;Average Generic;70
+Formuler_Z10;Formuler;Z10;GEMINI_API;no;OTHER;12;Power consumption (Max. 12W) found on product specification sheets.;strict;;Average Generic;70
+Formuler_Z10 Pro;Formuler;Z10 Pro;GEMINI_API;no;OTHER;12;Value obtained from Formuler Z10 Pro product specifications on manufacturer's website.;strict;;Average Generic;70
+Formuler_Z10 Pro Max;Formuler;Z10 Pro Max;GEMINI_API;no;OTHER;12;Value found in multiple specification listings for the Formuler Z10 Pro Max.;strict;;Average Generic;70
+Formuler_Z10 SE;Formuler;Z10 SE;GEMINI_API;no;OTHER;12;Value obtained from Formuler Z10 SE product specifications.;strict;;Average Generic;70
+Formuler_Z11 Pro;Formuler;Z11 Pro;GEMINI_API;no;OTHER;12;Value from manufacturer specifications for the Formuler Z11 Pro.;strict;;Average Generic;70
+Formuler_Z11 Pro MAX;Formuler;Z11 Pro MAX;GEMINI_API;no;OTHER;12;Value obtained from multiple Formuler Z11 Pro MAX product specifications.;strict;;Average Generic;70
+Gelhard_GTV2455;Gelhard;GTV2455;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Geniatech_ATV495Max;Geniatech;ATV495Max;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Google_Android TV with Chromecast;Google;Android TV with Chromecast;GEMINI_API;no;TV;70;"Value found on retailer product specifications for TCL C6K 55"" Google TV.";proxy;;Average Generic;70
+Google_Chromecast;Google;Chromecast;GEMINI_API;no;TV;85;The value is derived from the TCL 55C735 55-inch Google TV's product information sheet and specifications.;proxy;;Average Generic;70
+Google_Chromecast with Google TV (HD);Google;Chromecast with Google TV (HD);GEMINI_API;no;OTHER;2.5;The Chromecast with Google TV (HD) consumes 2.5W while streaming HD content;strict;;Average Generic;70
+Google_Smart TV;Google;Smart TV;GEMINI_API;no;TV;79;"Value found on Department of Energy energy label for TCL 55P635 55"" Google TV.";proxy;;Average Generic;70
+Google_TV Streamer (4K);Google;TV Streamer (4K);GEMINI_API;no;OTHER;4.3;Google TV Streamer 4K uses 4.3W for video streaming.;strict;;Average Generic;70
+Grundig_AFTEU011;Grundig;AFTEU011;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Grundig_AFTEU014;Grundig;AFTEU014;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Grundig_AFTEUFF014;Grundig;AFTEUFF014;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Grundig_Generic Android TV;Grundig;Generic Android TV;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+Grundig_Generic Google TV;Grundig;Generic Google TV;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+Grundig_Generic UHD Android TV;Grundig;Generic UHD Android TV;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+HKC_4K AI Smart TV;HKC;4K AI Smart TV;GEMINI_API;no;TV;77;"Value derived from the Annual Energy Consumption on an HKC 55"" 4K Smart TV energy label.";proxy;;Average Generic;70
+HMD_Streaming Box 8000;HMD;Streaming Box 8000;GEMINI_API;no;OTHER;12;Manufacturer specifications state maximum working power consumption is 12 W.;strict;;Average Generic;70
+HMD_Streaming Box 8010;HMD;Streaming Box 8010;GEMINI_API;no;OTHER;12;Power consumption (max.) from official specifications.;strict;;Average Generic;70
+Hanseatic_Generic TV;Hanseatic;Generic TV;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+Haoyu_TX60 Pro;Haoyu;TX60 Pro;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Hisense_100E80KAVS;Hisense;100E80KAVS;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Hisense_32A35EEVS;Hisense;32A35EEVS;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Hisense_32A35HEVS;Hisense;32A35HEVS;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Hisense_32A36FEVS;Hisense;32A36FEVS;GEMINI_API;no;TV;92;Value from Hisense 55A7500F energy label.;proxy;;Average Generic;70
+Hisense_32A36LEVS;Hisense;32A36LEVS;GEMINI_API;no;TV;92;Value from Energy Label for Hisense 55A7500F;proxy;;Average Generic;70
+Hisense_40A35EEVS;Hisense;40A35EEVS;GEMINI_API;no;TV;64;Value derived from the energy efficiency label of Hisense 55A6N;proxy;;Average Generic;70
+Hisense_40A35HEVS;Hisense;40A35HEVS;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Hisense_40A36HEVS;Hisense;40A36HEVS;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Hisense_40A36LEVS;Hisense;40A36LEVS;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Hisense_40E5600EE;Hisense;40E5600EE;GEMINI_API;no;TV;64;Value obtained from the energy label of Hisense 55U7Q as a proxy for a 55-inch Hisense TV.;proxy;;Average Generic;70
+Hisense_43A52FEVS;Hisense;43A52FEVS;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Hisense_43A53FEVS;Hisense;43A53FEVS;GEMINI_API;no;TV;51;Value from Hisense energy label for model 43A6GTUK (43A53FEVS).;strict;;Average Generic;70
+Hisense_43A56FEVS;Hisense;43A56FEVS;GEMINI_API;no;TV;54;Value obtained from the official EU Energy Label for the exact model Hisense 43A56FEVS.;strict;;Average Generic;70
+Hisense_43A60GEVS;Hisense;43A60GEVS;GEMINI_API;no;TV;84;Value obtained from the energy label SDR consumption of the Hisense 55A6G (proxy model).;proxy;;Average Generic;70
+Hisense_43A60LEVS;Hisense;43A60LEVS;GEMINI_API;no;TV;130;Value from Hisense A6Q series specifications for the 55-inch model.;proxy;;Average Generic;70
+Hisense_43A75LEVS;Hisense;43A75LEVS;GEMINI_API;no;TV;92;Value obtained from energy label for Hisense 55A7500F.;proxy;;Average Generic;70
+Hisense_43E70LEVS;Hisense;43E70LEVS;GEMINI_API;no;TV;64;Value obtained from the product information sheet for a Hisense 55-inch TV.;proxy;;Average Generic;70
+Hisense_50A51HEVS;Hisense;50A51HEVS;GEMINI_API;no;TV;64;SDR power consumption for a 55-inch Hisense 55U7Q found on its energy label.;proxy;;Average Generic;70
+Hisense_50A52FEVS;Hisense;50A52FEVS;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Hisense_50A53FEVS;Hisense;50A53FEVS;GEMINI_API;no;TV;76;Value obtained from a UK energy label for Hisense 50A6GTUK (50A53FEVS);strict;;Average Generic;70
+Hisense_50A56FEVS;Hisense;50A56FEVS;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Hisense_50A60GEVS;Hisense;50A60GEVS;GEMINI_API;no;TV;84;Value obtained from EU energy label specifications for Hisense 55A60G.;proxy;;Average Generic;70
+Hisense_50A60LEVS;Hisense;50A60LEVS;GEMINI_API;no;TV;64;Value from Hisense 55A6N energy efficiency label.;proxy;;Average Generic;70
+Hisense_50A75LEVS;Hisense;50A75LEVS;GEMINI_API;no;TV;64;Value from energy label for Hisense 55A7Q;proxy;;Average Generic;70
+Hisense_50E70LEVS;Hisense;50E70LEVS;GEMINI_API;no;TV;64;SDR power from a Hisense 55U7Q PRO product information sheet.;proxy;;Average Generic;70
+Hisense_50U67LEVS;Hisense;50U67LEVS;GEMINI_API;no;TV;77;Value obtained from the average power consumption for Hisense 55U6K on DisplaySpecifications.com.;proxy;;Average Generic;70
+Hisense_55A51HEVS;Hisense;55A51HEVS;GEMINI_API;no;TV;64;Value obtained from the energy efficiency label of the Hisense 55A6N;proxy;;Average Generic;70
+Hisense_55A52FEVS;Hisense;55A52FEVS;GEMINI_API;no;TV;58;Value extracted from Hisense energy label (kWh/1000h equivalent to Watts).;proxy;;Average Generic;70
+Hisense_55A53FEVS;Hisense;55A53FEVS;GEMINI_API;no;TV;120;Value derived from average power consumption of proxy model Hisense 55A7NF.;proxy;;Average Generic;70
+Hisense_55A56FEVS;Hisense;55A56FEVS;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Hisense_55A60GEVS;Hisense;55A60GEVS;GEMINI_API;no;TV;84;Value obtained from the energy label (kWh/1000h) for the Hisense 55A60G model.;proxy;;Average Generic;70
+Hisense_55A60LEVS;Hisense;55A60LEVS;GEMINI_API;no;TV;64;Value from Hisense 55A6N energy efficiency information.;proxy;;Average Generic;70
+Hisense_55A67GEVS;Hisense;55A67GEVS;GEMINI_API;no;TV;64;Value from energy label for Hisense 55A6N (proxy model).;proxy;;Average Generic;70
+Hisense_55A75LEVS;Hisense;55A75LEVS;GEMINI_API;no;TV;92;Value obtained from the energy label of a Hisense 55A7500F television.;proxy;;Average Generic;70
+Hisense_55E70LEVS;Hisense;55E70LEVS;GEMINI_API;no;TV;82;Value found on an energy label for a proxy model Hisense 55E7HQTUK.;proxy;;Average Generic;70
+Hisense_55E86GEVS;Hisense;55E86GEVS;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Hisense_55U61KEVS;Hisense;55U61KEVS;GEMINI_API;no;TV;180;Value found on Hisense India website for 55U6K.;proxy;;Average Generic;70
+Hisense_55U67KEVS;Hisense;55U67KEVS;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Hisense_55U67LEVS;Hisense;55U67LEVS;GEMINI_API;no;TV;64;Value obtained from the average power consumption of the Hisense 55U6NQ 55 inch TV.;proxy;;Average Generic;70
+Hisense_55U69GEVS;Hisense;55U69GEVS;GEMINI_API;no;TV;63;Value from Rtings.com review for Hisense 55U6G.;proxy;;Average Generic;70
+Hisense_55U70QEVS;Hisense;55U70QEVS;GEMINI_API;no;TV;64;Value from official product information sheet for Hisense 55U7Q.;proxy;;Average Generic;70
+Hisense_55U75LEVS;Hisense;55U75LEVS;GEMINI_API;no;TV;64;The SDR on-mode power demand for the Hisense 55U7Q 55-inch TV is 64 W;proxy;;Average Generic;70
+Hisense_55U85QEVS;Hisense;55U85QEVS;GEMINI_API;no;TV;64;Value from energy efficiency specifications for Hisense 55U8Q.;proxy;;Average Generic;70
+Hisense_58A53FEVS;Hisense;58A53FEVS;GEMINI_API;no;TV;77;Data from energy label of Hisense 55E7KQTUK;proxy;;Average Generic;70
+Hisense_58A60LEVS;Hisense;58A60LEVS;GEMINI_API;no;TV;64;Value from energy label for Hisense 55A6N (55-inch A6 series proxy).;proxy;;Average Generic;70
+Hisense_58E70LEVS;Hisense;58E70LEVS;GEMINI_API;no;TV;77;Value obtained from the average power consumption of the Hisense 55E7K;proxy;;Average Generic;70
+Hisense_58E70QEVS;Hisense;58E70QEVS;GEMINI_API;no;TV;64;Value found on the product information sheet for Hisense 55E70QEVS.;proxy;;Average Generic;70
+Hisense_65A51HEVS;Hisense;65A51HEVS;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Hisense_65A52FEVS;Hisense;65A52FEVS;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Hisense_65A53FEVS;Hisense;65A53FEVS;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Hisense_65A56FEVS;Hisense;65A56FEVS;GEMINI_API;no;TV;64;SDR power consumption for a 55-inch Hisense TV was found on an official energy label for model 55U7Q.;proxy;;Average Generic;70
+Hisense_65A60GEVS;Hisense;65A60GEVS;GEMINI_API;no;TV;64;Value from an energy label for the Hisense 55A6N;proxy;;Average Generic;70
+Hisense_65A60LEVS;Hisense;65A60LEVS;GEMINI_API;no;TV;64;The SDR power consumption is 64W for the Hisense 55A6N;proxy;;Average Generic;70
+Hisense_65A67GEVS;Hisense;65A67GEVS;GEMINI_API;no;TV;64;Value found on energy label for Hisense 55A6N (a 55-inch A6 series proxy).;proxy;;Average Generic;70
+Hisense_65A75LEVS;Hisense;65A75LEVS;GEMINI_API;no;TV;92;The SDR on-mode power consumption for the Hisense 55A7500F (a 55-inch proxy model for the A75 series) is 92 W;proxy;;Average Generic;70
+Hisense_65E70LEVS;Hisense;65E70LEVS;GEMINI_API;no;TV;64;Value found on Hisense 55U7Q Product Information Sheet - Energy Labelling.;proxy;;Average Generic;70
+Hisense_65E70QEVS;Hisense;65E70QEVS;GEMINI_API;no;TV;64;Value found on a product information sheet for the Hisense 55E70QEVS.;proxy;;Average Generic;70
+Hisense_65E80GEVS;Hisense;65E80GEVS;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Hisense_65Q70QEVS;Hisense;65Q70QEVS;GEMINI_API;no;TV;63;Value from power consumption specifications for Hisense 55E7Q Pro;proxy;;Average Generic;70
+Hisense_65U61KEVS;Hisense;65U61KEVS;GEMINI_API;no;TV;77;Value found on DisplaySpecifications for Hisense 55U6K average power consumption in standard work mode.;proxy;;Average Generic;70
+Hisense_65U67KEVS;Hisense;65U67KEVS;GEMINI_API;no;TV;77;Value obtained for Hisense 55U6K;proxy;;Average Generic;70
+Hisense_65U67LEVS;Hisense;65U67LEVS;GEMINI_API;no;TV;64;Value found on energy label/specifications for Hisense 55U6NQ;proxy;;Average Generic;70
+Hisense_65U69GEVS;Hisense;65U69GEVS;GEMINI_API;no;TV;180;On mode power consumption from Hisense India for 55U6G.;proxy;;Average Generic;70
+Hisense_65U70QEVS;Hisense;65U70QEVS;GEMINI_API;no;TV;64;Value from Hisense 55U7Q PRO energy label.;proxy;;Average Generic;70
+Hisense_70A53FEVS;Hisense;70A53FEVS;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Hisense_75A53FEVS;Hisense;75A53FEVS;GEMINI_API;no;TV;92;Value found on an energy label for a Hisense 55-inch A-series TV (55A7500F);proxy;;Average Generic;70
+Hisense_75A60LEVS;Hisense;75A60LEVS;GEMINI_API;no;TV;64;Value obtained from the Hisense 55A6N 55-inch TV energy label (64 kWh/1000h SDR).;proxy;;Average Generic;70
+Hisense_75A67GEVS;Hisense;75A67GEVS;GEMINI_API;no;TV;130;Value found on Hisense USA technical specifications page for 55A6GV.;proxy;;Average Generic;70
+Hisense_75E70LEVS;Hisense;75E70LEVS;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Hisense_75E70QEVS;Hisense;75E70QEVS;GEMINI_API;no;TV;64;Value from Hisense 55E70QEVS product information sheet.;proxy;;Average Generic;70
+Hisense_75U63KAVS;Hisense;75U63KAVS;GEMINI_API;no;TV;64;Value from Hisense 55U7Q official product information sheet.;proxy;;Average Generic;70
+Hisense_75U67LEVS;Hisense;75U67LEVS;GEMINI_API;no;TV;64;Value obtained from the energy label for the Hisense 55U7Q PRO television.;proxy;;Average Generic;70
+Hisense_75U70QEVS;Hisense;75U70QEVS;GEMINI_API;no;TV;64;Value extracted from Hisense 55U7Q product information sheet energy label.;proxy;;Average Generic;70
+Hisense_85A53HEVS;Hisense;85A53HEVS;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Hisense_85A60LEVS;Hisense;85A60LEVS;GEMINI_API;no;TV;64;Value found on the energy label for the Hisense 55A6N;proxy;;Average Generic;70
+Hisense_85E70LEVS;Hisense;85E70LEVS;GEMINI_API;no;TV;77;Value found for Hisense 55E7K (a proxy for the E70LEVS series) on DisplaySpecifications.;proxy;;Average Generic;70
+Hisense_85U70QEVS;Hisense;85U70QEVS;GEMINI_API;no;TV;64;Value from Hisense 55U7Q energy label.;proxy;;Average Generic;70
+Hisense_Generic Smart TV 2018;Hisense;Generic Smart TV 2018;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average 2018;32.089024
+Hisense_Generic Smart TV 2019;Hisense;Generic Smart TV 2019;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average 2019;45.75627
+Hisense_Generic Smart TV 2020;Hisense;Generic Smart TV 2020;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average 2020;67.138485
+Hisense_Generic Smart TV 2021;Hisense;Generic Smart TV 2021;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average 2021;58.537608
+Hisense_Generic Smart TV 2022;Hisense;Generic Smart TV 2022;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average 2022;60.828801
+Hisense_Generic TV;Hisense;Generic TV;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+Hisense_Generic Vidaa TV 2023;Hisense;Generic Vidaa TV 2023;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average 2023;49.790091
+Hisense_HE32A5800HWTS;Hisense;HE32A5800HWTS;GEMINI_API;no;TV;114;SDR on-mode power demand found on product information sheet for Hisense 55A9G.;proxy;;Average Generic;70
+Hisense_HE39A5600FWTS;Hisense;HE39A5600FWTS;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Hisense_NT72671D;Hisense;NT72671D;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Hisense_Smart TV;Hisense;Smart TV;GEMINI_API;no;TV;64;Value obtained from an energy label for a Hisense 55-inch QLED TV.;proxy;;Average Generic;70
+Hisense_VS0332FD2;Hisense;VS0332FD2;GEMINI_API;no;MONITOR;240;Value obtained from Hisense B2B site for a 55-inch LCD Video Wall Display.;proxy;;Average Generic;70
+Hisense_none;Hisense;none;GEMINI_API;no;TV;64;Value obtained from the energy label of Hisense 55-inch models (e.g.;proxy;;Average Generic;70
+Hitachi_Generic TV;Hitachi;Generic TV;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+Homatics_Box Q;Homatics;Box Q;GEMINI_API;no;OTHER;12;The Homatics Box Q's maximum consumption is listed as 12W by CZ Electronics.;strict;;Average Generic;70
+Homatics_Box R 4K;Homatics;Box R 4K;GEMINI_API;no;OTHER;18;Value obtained from Homatics Box R 4K specifications and power adapter rating (12V/1.5A).;strict;;Average Generic;70
+Homatics_Box R 4K Plus;Homatics;Box R 4K Plus;GEMINI_API;no;OTHER;18;Maximum power consumption listed in specifications and derived from power adapter.;proxy;;Average Generic;70
+Homatics_Stick HD;Homatics;Stick HD;GEMINI_API;no;OTHER;5;The power adapter specifies 5.0V / 1A input;strict;;Average Generic;70
+INNOPIA_OTT-G8 (Value);INNOPIA;OTT-G8 (Value);GEMINI_API;no;SET-TOP BOX;8;Proxy based on typical power consumption of similar Android TV set-top boxes;proxy;;Average Generic;70
+Inspur_QS01;Inspur;QS01;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+JBL_Link Bar;JBL;Link Bar;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+JVC_AFTJULI1;JVC;AFTJULI1;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+JVC_Generic TV;JVC;Generic TV;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+Kagis_Generic Android TV;Kagis;Generic Android TV;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+KaonMedia_KSTB6077;KaonMedia;KSTB6077;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Kendo_Generic TV;Kendo;Generic TV;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+LG_32LH604V;LG;32LH604V;GEMINI_API;no;TV;30;Value from Tweakers specifications for the LG 32LH604V (32-inch model).;strict;;Average Generic;70
+LG_32LJ610V;LG;32LJ610V;GEMINI_API;no;TV;36;The value is from the LG 32LJ610V specifications sheet and product datasheets.;strict;;Average Generic;70
+LG_32LK6200PLA;LG;32LK6200PLA;EPREL_LOCAL;yes;TV;33;Found in local EPREL DB (Model: 32LK6200PLA);exact_local;0.5;Average Generic;70
+LG_32LM6300PLA;LG;32LM6300PLA;EPREL_LOCAL;yes;TV;32.9;Found in local EPREL DB (Model: 32LM6300PLA);exact_local;0.5;Average Generic;70
+LG_32LM6370PLA;LG;32LM6370PLA;EPREL_LOCAL;yes;TV;32.9;Found in local EPREL DB (Model: 32LM6370PLA);exact_local;0.5;Average Generic;70
+LG_32LQ63006LA;LG;32LQ63006LA;EPREL_LOCAL;yes;TV;27;Found in local EPREL DB (Model: 32LQ63006LA);exact_local;0.5;Average Generic;70
+LG_32LQ631C0ZA;LG;32LQ631C0ZA;EPREL_LOCAL;yes;TV;27;Found in local EPREL DB (Model: 32LQ631C0ZA);exact_local;0.5;Average Generic;70
+LG_40UH630V;LG;40UH630V;GEMINI_API;no;TV;41;Value from DisplaySpecifications under 'Power consumption (eco)'.;strict;;Average Generic;70
+LG_43LJ594V-ZA;LG;43LJ594V-ZA;GEMINI_API;no;TV;54;Value obtained from multiple reliable specification sites and LG ErP document.;strict;;Average Generic;70
+LG_43LM6300PLA;LG;43LM6300PLA;EPREL_LOCAL;yes;TV;48.9;Found in local EPREL DB (Model: 43LM6300PLA);exact_local;0.5;Average Generic;70
+LG_43NANO756QC;LG;43NANO756QC;EPREL_LOCAL;yes;TV;54;Found in local EPREL DB (Model: 43NANO756QC);exact_local;0.5;Average Generic;70
+LG_43NANO769QA;LG;43NANO769QA;EPREL_LOCAL;yes;TV;54;Found in local EPREL DB (Model: 43NANO769QA);exact_local;0.5;Average Generic;70
+LG_43NANO779PA;LG;43NANO779PA;EPREL_LOCAL;yes;TV;65.7;Found in local EPREL DB (Model: 43NANO779PA);exact_local;0.5;Average Generic;70
+LG_43NANO789QA;LG;43NANO789QA;EPREL_LOCAL;yes;TV;54;Found in local EPREL DB (Model: 43NANO789QA);exact_local;0.5;Average Generic;70
+LG_43NANO796NE;LG;43NANO796NE;EPREL_LOCAL;yes;TV;65;Found in local EPREL DB (Model: 43NANO796NE);exact_local;0.5;Average Generic;70
+LG_43UH6109;LG;43UH6109;GEMINI_API;no;TV;53;Value found on multiple reliable sources for LG 43UH6109.;strict;;Average Generic;70
+LG_43UJ6309;LG;43UJ6309;GEMINI_API;no;TV;63;Value obtained from Icecat specifications for LG 43UJ6309.;strict;;Average Generic;70
+LG_43UJ634V-ZD;LG;43UJ634V-ZD;GEMINI_API;no;TV;63;Value obtained from DisplaySpecifications for LG 43UJ634V-ZD.;strict;;Average Generic;70
+LG_43UJ635V;LG;43UJ635V;GEMINI_API;no;TV;63;Value found on multiple specification sites.;strict;;Average Generic;70
+LG_43UJ6519;LG;43UJ6519;GEMINI_API;no;TV;70;Value from Prad.de and Icecat product specifications.;strict;;Average Generic;70
+LG_43UK6200PLA;LG;43UK6200PLA;GEMINI_API;no;TV;71;Value found from multiple reliable specification sheets for LG 43UK6200PLA.;strict;;Average Generic;70
+LG_43UK6300LLB;LG;43UK6300LLB;GEMINI_API;no;TV;71;Value found on DisplaySpecifications and LCD-Compare for average power consumption.;strict;;Average Generic;70
+LG_43UK6400PLF;LG;43UK6400PLF;GEMINI_API;no;TV;71;The power consumption was found on multiple product specification pages for the LG 43UK6400PLF.;strict;;Average Generic;70
+LG_43UK6470PLC;LG;43UK6470PLC;GEMINI_API;no;TV;71;Average power consumption for LG 43UK6470PLC (43 inch) found in multiple specifications.;strict;;Average Generic;70
+LG_43UM7000PLA;LG;43UM7000PLA;GEMINI_API;no;TV;70;Value obtained from LG 43UM7000PLA specifications on Epey UK.;strict;;Average Generic;70
+LG_43UM7050PLF;LG;43UM7050PLF;EPREL_LOCAL;yes;TV;73;Found in local EPREL DB (Model: 43UM7050PLF);exact_local;0.5;Average Generic;70
+LG_43UM71007LB;LG;43UM71007LB;GEMINI_API;no;TV;70;Value found in product data sheets and user manuals for the exact model.;strict;;Average Generic;70
+LG_43UM7390PLC;LG;43UM7390PLC;GEMINI_API;no;TV;71;Value from product specifications and user manual.;strict;;Average Generic;70
+LG_43UM7400PLB;LG;43UM7400PLB;GEMINI_API;no;TV;71;The power consumption (average) for LG 43UM7400PLB is 71 W.;strict;;Average Generic;70
+LG_43UM74507LA;LG;43UM74507LA;GEMINI_API;no;TV;71;Value from LG datasheet and Prad.de specifications.;strict;;Average Generic;70
+LG_43UM7500PLA;LG;43UM7500PLA;GEMINI_API;no;TV;71;Value obtained from multiple specification sites.;strict;;Average Generic;70
+LG_43UN70006LA;LG;43UN70006LA;EPREL_LOCAL;yes;TV;67;Found in local EPREL DB (Model: 43UN70006LA);exact_local;0.5;Average Generic;70
+LG_43UN71006LB;LG;43UN71006LB;EPREL_LOCAL;yes;TV;64.9;Found in local EPREL DB (Model: 43UN71006LB);exact_local;0.5;Average Generic;70
+LG_43UN73006LC;LG;43UN73006LC;GEMINI_API;no;TV;65;Value found on LG Product Information Sheets and user manual.;strict;;Average Generic;70
+LG_43UN73906LE;LG;43UN73906LE;EPREL_LOCAL;yes;TV;65;Found in local EPREL DB (Model: 43UN73906LE);exact_local;0.5;Average Generic;70
+LG_43UN74007LB;LG;43UN74007LB;EPREL_LOCAL;yes;TV;65;Found in local EPREL DB (Model: 43UN74007LB);exact_local;0.5;Average Generic;70
+LG_43UP75006LF;LG;43UP75006LF;GEMINI_API;no;TV;66.6;Value found on the product information sheet from Elgiganten.;strict;;Average Generic;70
+LG_43UP75009LF;LG;43UP75009LF;GEMINI_API;no;TV;66.6;Value from LG Product Information Sheet.;strict;;Average Generic;70
+LG_43UP76709LB;LG;43UP76709LB;EPREL_LOCAL;yes;TV;64.8;Found in local EPREL DB (Model: 43UP76709LB);exact_local;0.5;Average Generic;70
+LG_43UP77009LB;LG;43UP77009LB;GEMINI_API;no;TV;64.8;Value obtained from the LG Product Information Sheet for the exact model.;strict;;Average Generic;70
+LG_43UP78009LB;LG;43UP78009LB;EPREL_LOCAL;yes;TV;64.8;Found in local EPREL DB (Model: 43UP78009LB);exact_local;0.5;Average Generic;70
+LG_43UP81009LR;LG;43UP81009LR;EPREL_LOCAL;yes;TV;64.8;Found in local EPREL DB (Model: 43UP81009LR);exact_local;0.5;Average Generic;70
+LG_43UQ75009LF;LG;43UQ75009LF;GEMINI_API;no;TV;54;SDR energy consumption (1000h) for the LG 43UQ75009LF is 54 kWh;strict;;Average Generic;70
+LG_43UQ81003LB;LG;43UQ81003LB;EPREL_LOCAL;yes;TV;54;Found in local EPREL DB (Model: 43UQ81003LB);exact_local;0.5;Average Generic;70
+LG_43UQ91009LA;LG;43UQ91009LA;EPREL_LOCAL;yes;TV;53;Found in local EPREL DB (Model: 43UQ91009LA);exact_local;0.5;Average Generic;70
+LG_43UR73006LA;LG;43UR73006LA;EPREL_LOCAL;yes;TV;54;Found in local EPREL DB (Model: 43UR73006LA);exact_local;0.5;Average Generic;70
+LG_43UR78006LK;LG;43UR78006LK;EPREL_LOCAL;yes;TV;54;Found in local EPREL DB (Model: 43UR78006LK);exact_local;0.5;Average Generic;70
+LG_43UT73006LA;LG;43UT73006LA;EPREL_LOCAL;yes;TV;54;Found in local EPREL DB (Model: 43UT73006LA);exact_local;0.5;Average Generic;70
+LG_49LH590V;LG;49LH590V;GEMINI_API;no;TV;34;The power consumption (On - factory settings) for LG 49LH590V is 34 W.;strict;;Average Generic;70
+LG_49NANO816NA;LG;49NANO816NA;EPREL_LOCAL;yes;TV;79;Found in local EPREL DB (Model: 49NANO816NA);exact_local;0.5;Average Generic;70
+LG_49NANO867NA;LG;49NANO867NA;EPREL_LOCAL;yes;TV;82;Found in local EPREL DB (Model: 49NANO867NA);exact_local;0.5;Average Generic;70
+LG_49SJ800V;LG;49SJ800V;GEMINI_API;no;TV;66;The on-mode power consumption (SDR) for the LG 49SJ800V is 66 W;strict;;Average Generic;70
+LG_49SK8000PLB;LG;49SK8000PLB;GEMINI_API;no;TV;93;Value obtained from multiple specification sheets and energy labels for the exact model.;strict;;Average Generic;70
+LG_49SK8500LLA;LG;49SK8500LLA;GEMINI_API;no;TV;70;Value found on LG ERP document for 49SK8500LLA.;strict;;Average Generic;70
+LG_49SM8050PLC;LG;49SM8050PLC;GEMINI_API;no;TV;89;Value found on DisplaySpecifications;strict;;Average Generic;70
+LG_49SM82007LA;LG;49SM82007LA;GEMINI_API;no;TV;89;Value found on Icecat;strict;;Average Generic;70
+LG_49SM8500PLA;LG;49SM8500PLA;GEMINI_API;no;TV;87;The average power consumption is 87 W;strict;;Average Generic;70
+LG_49SM86007LA;LG;49SM86007LA;GEMINI_API;no;TV;87;Value obtained from official specification sheet and data sheet.;strict;;Average Generic;70
+LG_49SM90007LA;LG;49SM90007LA;GEMINI_API;no;TV;95;Value from LG UAE website for 55 inch SM9000 Series On-Mode Power Consumption.;proxy;;Average Generic;70
+LG_49UH6109;LG;49UH6109;GEMINI_API;no;TV;63;Value found on LG's official website and product data sheets.;strict;;Average Generic;70
+LG_49UH610V;LG;49UH610V;GEMINI_API;no;TV;63;Value found on multiple specification sites and energy labels.;strict;;Average Generic;70
+LG_49UH668V;LG;49UH668V;GEMINI_API;no;TV;57;On-mode power consumption (SDR) is consistently listed as 57 W across multiple reliable sources.;strict;;Average Generic;70
+LG_49UJ6307;LG;49UJ6307;GEMINI_API;no;TV;74;Value obtained from LG 49UJ6307 product specifications and energy label.;strict;;Average Generic;70
+LG_49UJ6309;LG;49UJ6309;GEMINI_API;no;TV;74;Value found on multiple product specification sites.;strict;;Average Generic;70
+LG_49UJ635V-ZF;LG;49UJ635V-ZF;GEMINI_API;no;TV;74;Value obtained from DisplaySpecifications and Tweakers for the LG 49UJ635V model.;strict;;Average Generic;70
+LG_49UJ701V;LG;49UJ701V;GEMINI_API;no;TV;85;Value obtained from multiple specification websites for the exact model number.;strict;;Average Generic;70
+LG_49UJ7509;LG;49UJ7509;GEMINI_API;no;TV;75;Value obtained from the Prad.de datasheet for LG 49UJ7509.;strict;;Average Generic;70
+LG_49UK6200PLA;LG;49UK6200PLA;GEMINI_API;no;TV;85;The power consumption comes from multiple reliable specification sites and an LG ErP document for the 49UK6200PLA.;strict;;Average Generic;70
+LG_49UK6400PLF;LG;49UK6400PLF;GEMINI_API;no;TV;85;Value from multiple product specification and user manual sources.;strict;;Average Generic;70
+LG_49UK7550LLA;LG;49UK7550LLA;GEMINI_API;no;TV;92;Value from LCD-Compare product specifications for exact model.;strict;;Average Generic;70
+LG_49UM7000PLA;LG;49UM7000PLA;GEMINI_API;no;TV;79;Value obtained from official product specifications/energy label for LG 49UM7000PLA.;strict;;Average Generic;70
+LG_49UM7050PLF;LG;49UM7050PLF;GEMINI_API;no;TV;79;Value obtained from multiple reliable specification sources for LG 49UM7050PLF.;strict;;Average Generic;70
+LG_49UM71007LB;LG;49UM71007LB;GEMINI_API;no;TV;79;Value found on multiple spec sheets and energy labels for the exact model.;strict;;Average Generic;70
+LG_49UM7390PLC;LG;49UM7390PLC;GEMINI_API;no;TV;76.5;Value from LG's official product page for the 55-inch LG 55UM7300AUE TV.;proxy;;Average Generic;70
+LG_49UM7400PLB;LG;49UM7400PLB;GEMINI_API;no;TV;80;Value found on DisplaySpecifications and Epey UK under average power consumption.;strict;;Average Generic;70
+LG_49UN71006LB;LG;49UN71006LB;EPREL_LOCAL;yes;TV;63;Found in local EPREL DB (Model: 49UN71006LB);exact_local;0.5;Average Generic;70
+LG_49UN73906LE;LG;49UN73906LE;EPREL_LOCAL;yes;TV;61.9;Found in local EPREL DB (Model: 49UN73906LE);exact_local;0.5;Average Generic;70
+LG_50NANO766QA;LG;50NANO766QA;EPREL_LOCAL;yes;TV;68;Found in local EPREL DB (Model: 50NANO766QA);exact_local;0.5;Average Generic;70
+LG_50NANO769QA;LG;50NANO769QA;GEMINI_API;no;TV;68;Value obtained from LG product information sheet and energy labels.;strict;;Average Generic;70
+LG_50NANO796NE;LG;50NANO796NE;EPREL_LOCAL;yes;TV;86;Found in local EPREL DB (Model: 50NANO796NE);exact_local;0.5;Average Generic;70
+LG_50NANO796PC;LG;50NANO796PC;EPREL_LOCAL;yes;TV;78.8;Found in local EPREL DB (Model: 50NANO796PC);exact_local;0.5;Average Generic;70
+LG_50NANO869PA;LG;50NANO869PA;EPREL_LOCAL;yes;TV;66.6;Found in local EPREL DB (Model: 50NANO869PA);exact_local;0.5;Average Generic;70
+LG_50QNED816RE;LG;50QNED816RE;EPREL_LOCAL;yes;TV;54;Found in local EPREL DB (Model: 50QNED816RE);exact_local;0.5;Average Generic;70
+LG_50QNED819QA;LG;50QNED819QA;EPREL_LOCAL;yes;TV;70.7;Found in local EPREL DB (Model: 50QNED819QA);exact_local;0.5;Average Generic;70
+LG_50UH635V-ZA;LG;50UH635V-ZA;GEMINI_API;no;TV;66;Value found on LG official product pages and specifications for model 50UH635V-ZA.;strict;;Average Generic;70
+LG_50UK6300LLB;LG;50UK6300LLB;GEMINI_API;no;TV;89;Value found on DisplaySpecifications and other sites for the exact model.;strict;;Average Generic;70
+LG_50UK6470PLC;LG;50UK6470PLC;GEMINI_API;no;TV;89;Found on-mode power consumption on multiple specification websites for LG 50UK6470PLC.;strict;;Average Generic;70
+LG_50UK6500LLA;LG;50UK6500LLA;GEMINI_API;no;TV;89;Value obtained from LCD-Compare for model 50UK6500LLA.;strict;;Average Generic;70
+LG_50UM74507LA;LG;50UM74507LA;GEMINI_API;no;TV;87;Value obtained from the product's technical data sheet and ERP document.;strict;;Average Generic;70
+LG_50UM7500PLA;LG;50UM7500PLA;GEMINI_API;no;TV;91;"The power consumption (on-mode) is listed as 91 W on multiple product specification sheets. This aligns with the ""Consumption (Average)"" listed by Epey UK. A product information sheet also states ""Power consumption in on-mode";strict;;Average Generic;70
+LG_50UN73006LA;LG;50UN73006LA;GEMINI_API;no;TV;85;Value obtained from LG's official product information sheet.;strict;;Average Generic;70
+LG_50UN74007LB;LG;50UN74007LB;EPREL_LOCAL;yes;TV;85;Found in local EPREL DB (Model: 50UN74007LB);exact_local;0.5;Average Generic;70
+LG_50UP75009LF;LG;50UP75009LF;EPREL_LOCAL;yes;TV;86;Found in local EPREL DB (Model: 50UP75009LF);exact_local;0.5;Average Generic;70
+LG_50UP77006LB;LG;50UP77006LB;GEMINI_API;no;TV;68;Value obtained from LG's official product information sheet.;strict;;Average Generic;70
+LG_50UP81009LR;LG;50UP81009LR;EPREL_LOCAL;yes;TV;79.2;Found in local EPREL DB (Model: 50UP81009LR);exact_local;0.5;Average Generic;70
+LG_50UR73006LA;LG;50UR73006LA;EPREL_LOCAL;yes;TV;71;Found in local EPREL DB (Model: 50UR73006LA);exact_local;0.5;Average Generic;70
+LG_50UR81006LJ;LG;50UR81006LJ;EPREL_LOCAL;yes;TV;64.8;Found in local EPREL DB (Model: 50UR81006LJ);exact_local;0.5;Average Generic;70
+LG_55NANO756QC;LG;55NANO756QC;EPREL_LOCAL;yes;TV;83.7;Found in local EPREL DB (Model: 55NANO756QC);exact_local;0.5;Average Generic;70
+LG_55NANO766QA;LG;55NANO766QA;GEMINI_API;no;TV;83.7;Value from the official product information sheet.;strict;;Average Generic;70
+LG_55NANO796NE;LG;55NANO796NE;EPREL_LOCAL;yes;TV;101;Found in local EPREL DB (Model: 55NANO796NE);exact_local;0.5;Average Generic;70
+LG_55NANO796PC;LG;55NANO796PC;GEMINI_API;no;TV;95;Value from product specifications (SDR) per 1000 hours.;strict;;Average Generic;70
+LG_55NANO806NA;LG;55NANO806NA;EPREL_LOCAL;yes;TV;98;Found in local EPREL DB (Model: 55NANO806NA);exact_local;0.5;Average Generic;70
+LG_55NANO816NA;LG;55NANO816NA;EPREL_LOCAL;yes;TV;98;Found in local EPREL DB (Model: 55NANO816NA);exact_local;0.5;Average Generic;70
+LG_55NANO82T6B;LG;55NANO82T6B;EPREL_LOCAL;yes;TV;83.7;Found in local EPREL DB (Model: 55NANO82T6B);exact_local;0.5;Average Generic;70
+LG_55NANO867NA;LG;55NANO867NA;EPREL_LOCAL;yes;TV;102;Found in local EPREL DB (Model: 55NANO867NA);exact_local;0.5;Average Generic;70
+LG_55NANO869PA;LG;55NANO869PA;EPREL_LOCAL;yes;TV;80.1;Found in local EPREL DB (Model: 55NANO869PA);exact_local;0.5;Average Generic;70
+LG_55NANO917NA;LG;55NANO917NA;EPREL_LOCAL;yes;TV;94.9;Found in local EPREL DB (Model: 55NANO917NA);exact_local;0.5;Average Generic;70
+LG_55QNED816RE;LG;55QNED816RE;GEMINI_API;no;TV;64;Value obtained from DisplaySpecifications and EU Energy Label.;strict;;Average Generic;70
+LG_55QNED826RE;LG;55QNED826RE;EPREL_LOCAL;yes;TV;63.9;Found in local EPREL DB (Model: 55QNED826RE);exact_local;0.5;Average Generic;70
+LG_55SJ800V;LG;55SJ800V;GEMINI_API;no;TV;78;Value found on DisplaySpecifications and ErP documents as average power consumption.;strict;;Average Generic;70
+LG_55SJ8509;LG;55SJ8509;GEMINI_API;no;TV;86;Value found on Icecat and WhatIsMyPhone.com for the exact model.;strict;;Average Generic;70
+LG_55SK7900PLA;LG;55SK7900PLA;GEMINI_API;no;TV;75;The power consumption (typical/SDR) is listed as 75 W in multiple product specifications and energy information sources.;strict;;Average Generic;70
+LG_55SK8000PLB;LG;55SK8000PLB;GEMINI_API;no;TV;88;The average power consumption in standard work mode is 88 W.;strict;;Average Generic;70
+LG_55SK8100LLA;LG;55SK8100LLA;GEMINI_API;no;TV;88;Value found in LCD-Compare specifications for LG 55SK8100LLA.;strict;;Average Generic;70
+LG_55SK8500LLA;LG;55SK8500LLA;GEMINI_API;no;TV;88;Value from LG 55SK8500LLA specifications on Prad.de and WhatIsMyPhone.com.;strict;;Average Generic;70
+LG_55SM82007LA;LG;55SM82007LA;GEMINI_API;no;TV;109;Value from Icecat and user manuals stating typical power consumption.;strict;;Average Generic;70
+LG_55SM8500PLA;LG;55SM8500PLA;GEMINI_API;no;TV;84;Value found on LG Product Information Sheet for SDR on-mode power demand.;strict;;Average Generic;70
+LG_55SM86007LA;LG;55SM86007LA;GEMINI_API;no;TV;95;Value obtained from LG product fiche and Prad.de datasheet.;strict;;Average Generic;70
+LG_55SM9010PLA;LG;55SM9010PLA;GEMINI_API;no;TV;85;The value was found on Epey UK and DisplaySpecifications under average power consumption.;strict;;Average Generic;70
+LG_55UH605V-ZC;LG;55UH605V-ZC;GEMINI_API;no;TV;78;Value obtained from multiple product specifications and energy labels.;strict;;Average Generic;70
+LG_55UH6159;LG;55UH6159;GEMINI_API;no;TV;78;Value from LG product specifications and energy label.;strict;;Average Generic;70
+LG_55UH615V;LG;55UH615V;GEMINI_API;no;TV;78;Value obtained from LG official site specifications for on-mode power consumption.;strict;;Average Generic;70
+LG_55UH668V;LG;55UH668V;GEMINI_API;no;TV;68;Value found on Tweakers specifications for SDR power per 1000 hours.;strict;;Average Generic;70
+LG_55UH950V;LG;55UH950V;GEMINI_API;no;TV;106;Multiple reliable sources state the typical/average on-mode power consumption as 106W.;strict;;Average Generic;70
+LG_55UJ6309;LG;55UJ6309;GEMINI_API;no;TV;107;Value found on Icecat product sheets and WhatIsMyPhone.com for the exact model.;strict;;Average Generic;70
+LG_55UJ634V;LG;55UJ634V;GEMINI_API;no;TV;107;Value obtained from DisplaySpecifications and the user manual for typical power consumption.;strict;;Average Generic;70
+LG_55UJ635V;LG;55UJ635V;GEMINI_API;no;TV;107;The average power consumption in standard work mode for the LG 55UJ635V is 107 W.;strict;;Average Generic;70
+LG_55UJ6519;LG;55UJ6519;GEMINI_API;no;TV;85;The power consumption of 85 W was found on Icecat and Prad.de.;strict;;Average Generic;70
+LG_55UK6100PLB;LG;55UK6100PLB;GEMINI_API;no;TV;107;Value found on LG (Slovakia) product page and DisplaySpecifications comparisons.;strict;;Average Generic;70
+LG_55UK6200PLA;LG;55UK6200PLA;GEMINI_API;no;TV;89;The power consumption value came from multiple product specification sites.;strict;;Average Generic;70
+LG_55UK6300LLB;LG;55UK6300LLB;GEMINI_API;no;TV;89;Value found on DisplaySpecifications and LG ERP document.;strict;;Average Generic;70
+LG_55UK6400PLF;LG;55UK6400PLF;GEMINI_API;no;TV;89;Value obtained from official LG specifications for SDR energy consumption.;strict;;Average Generic;70
+LG_55UK6470PLC;LG;55UK6470PLC;GEMINI_API;no;TV;89;Value from multiple specifications sources for LG 55UK6470PLC.;strict;;Average Generic;70
+LG_55UK6500LLA;LG;55UK6500LLA;GEMINI_API;no;TV;89;Value obtained from official LG product information sheet and other specification sites.;strict;;Average Generic;70
+LG_55UK6750PLD;LG;55UK6750PLD;GEMINI_API;no;TV;89;Value found in multiple specification and user manual listings.;strict;;Average Generic;70
+LG_55UK6950PLB;LG;55UK6950PLB;GEMINI_API;no;TV;89;Value obtained from multiple reliable specification and user manual sources.;strict;;Average Generic;70
+LG_55UK7550LLA;LG;55UK7550LLA;GEMINI_API;no;TV;111;Value found on multiple spec sheets for the exact model number.;strict;;Average Generic;70
+LG_55UM7000PLC;LG;55UM7000PLC;GEMINI_API;no;TV;85;Value found on product specification sheets.;strict;;Average Generic;70
+LG_55UM7050PLC;LG;55UM7050PLC;GEMINI_API;no;TV;85;Value found on product specifications as typical power consumption.;strict;;Average Generic;70
+LG_55UM71007LB;LG;55UM71007LB;GEMINI_API;no;TV;85;The power consumption in on-mode (typical) is listed as 85 W in multiple specifications and manuals.;strict;;Average Generic;70
+LG_55UM7100PLB;LG;55UM7100PLB;GEMINI_API;no;TV;85;Value obtained from multiple specification sheets and an ERP document for the exact model.;strict;;Average Generic;70
+LG_55UM74507LA;LG;55UM74507LA;GEMINI_API;no;TV;114;Value from LG specifications for the exact model LG 55UM74507LA.;strict;;Average Generic;70
+LG_55UM7510PLA;LG;55UM7510PLA;GEMINI_API;no;TV;115;Value obtained from multiple product specifications and user manuals.;strict;;Average Generic;70
+LG_55UN70006LA;LG;55UN70006LA;EPREL_LOCAL;yes;TV;103;Found in local EPREL DB (Model: 55UN70006LA);exact_local;0.5;Average Generic;70
+LG_55UN71006LB;LG;55UN71006LB;GEMINI_API;no;TV;74;Value obtained from the official LG Energy Label (kWh/1000h converted to Watts).;strict;;Average Generic;70
+LG_55UN73006LA;LG;55UN73006LA;GEMINI_API;no;TV;102;Value obtained from the official energy label (102 kWh/1000h);strict;;Average Generic;70
+LG_55UN74003LB;LG;55UN74003LB;EPREL_LOCAL;yes;TV;102;Found in local EPREL DB (Model: 55UN74003LB);exact_local;0.5;Average Generic;70
+LG_55UN74007LB;LG;55UN74007LB;EPREL_LOCAL;yes;TV;102;Found in local EPREL DB (Model: 55UN74007LB);exact_local;0.5;Average Generic;70
+LG_55UP75009LF;LG;55UP75009LF;EPREL_LOCAL;yes;TV;103;Found in local EPREL DB (Model: 55UP75009LF);exact_local;0.5;Average Generic;70
+LG_55UP76709LB;LG;55UP76709LB;EPREL_LOCAL;yes;TV;84.6;Found in local EPREL DB (Model: 55UP76709LB);exact_local;0.5;Average Generic;70
+LG_55UP77006LB;LG;55UP77006LB;GEMINI_API;no;TV;84.6;Value found on LG Product Information Sheet.;strict;;Average Generic;70
+LG_55UQ70006LB;LG;55UQ70006LB;EPREL_LOCAL;yes;TV;102;Found in local EPREL DB (Model: 55UQ70006LB);exact_local;0.5;Average Generic;70
+LG_55UQ75009LF;LG;55UQ75009LF;EPREL_LOCAL;yes;TV;81;Found in local EPREL DB (Model: 55UQ75009LF);exact_local;0.5;Average Generic;70
+LG_55UR73006LA;LG;55UR73006LA;GEMINI_API;no;TV;84;Value obtained from LG and Icecat product information sheets.;strict;;Average Generic;70
+LG_55UR74006LB;LG;55UR74006LB;GEMINI_API;no;TV;84;Value obtained from official LG EU energy label and product information sheet.;strict;;Average Generic;70
+LG_55UR78006LK;LG;55UR78006LK;EPREL_LOCAL;yes;TV;81;Found in local EPREL DB (Model: 55UR78006LK);exact_local;0.5;Average Generic;70
+LG_55UT73006LA;LG;55UT73006LA;EPREL_LOCAL;yes;TV;84;Found in local EPREL DB (Model: 55UT73006LA);exact_local;0.5;Average Generic;70
+LG_58UH635V;LG;58UH635V;GEMINI_API;no;TV;87;Value found on DisplaySpecifications;strict;;Average Generic;70
+LG_60UH615V;LG;60UH615V;GEMINI_API;no;TV;79;"Value ""Energieverbruik (SDR) per 1000 uur";strict;;Average Generic;70
+LG_60UJ6309;LG;60UJ6309;GEMINI_API;no;TV;117;Value found on multiple specification sheets for the LG 60UJ6309.;strict;;Average Generic;70
+LG_60UK6200PLA;LG;60UK6200PLA;GEMINI_API;no;TV;136;"Found ""Power Consumption (Typical)"" or ""Consommation normale"" on several specification sites.";strict;;Average Generic;70
+LG_60UM71007LB;LG;60UM71007LB;GEMINI_API;no;TV;136;Value found on multiple specification sheets and an LG ERP document.;strict;;Average Generic;70
+LG_65NANO756QC;LG;65NANO756QC;EPREL_LOCAL;yes;TV;111;Found in local EPREL DB (Model: 65NANO756QC);exact_local;0.5;Average Generic;70
+LG_65NANO766QA;LG;65NANO766QA;EPREL_LOCAL;yes;TV;111;Found in local EPREL DB (Model: 65NANO766QA);exact_local;0.5;Average Generic;70
+LG_65NANO81T6A;LG;65NANO81T6A;EPREL_LOCAL;yes;TV;111;Found in local EPREL DB (Model: 65NANO81T6A);exact_local;0.5;Average Generic;70
+LG_65NANO867NA;LG;65NANO867NA;EPREL_LOCAL;yes;TV;123;Found in local EPREL DB (Model: 65NANO867NA);exact_local;0.5;Average Generic;70
+LG_65QNED816RE;LG;65QNED816RE;GEMINI_API;no;TV;85;Value obtained from multiple reliable specification sites;strict;;Average Generic;70
+LG_65SJ800V;LG;65SJ800V;GEMINI_API;no;TV;102;Value found on DisplaySpecifications and DisplayDB as average power consumption in standard work mode.;strict;;Average Generic;70
+LG_65SJ8509;LG;65SJ8509;GEMINI_API;no;TV;149;On-mode power consumption for LG 65SJ850# found in product fiche.;strict;;Average Generic;70
+LG_65SK7900PLA;LG;65SK7900PLA;GEMINI_API;no;TV;104;The power consumption was found on DisplaySpecifications and other product specification sites.;strict;;Average Generic;70
+LG_65SK8000PLB;LG;65SK8000PLB;GEMINI_API;no;TV;121;Found 121 W average power consumption in standard work mode from multiple specification sites.;strict;;Average Generic;70
+LG_65SM8500PLA;LG;65SM8500PLA;GEMINI_API;no;TV;118;Value from LG official website for factory settings.;strict;;Average Generic;70
+LG_65UH6159;LG;65UH6159;GEMINI_API;no;TV;73;Value found on product specification sheets and energy labels for the exact model.;strict;;Average Generic;70
+LG_65UH7709;LG;65UH7709;GEMINI_API;no;TV;106;Value obtained from official LG website and other reliable spec sheets.;strict;;Average Generic;70
+LG_65UH770V;LG;65UH770V;GEMINI_API;no;TV;111;Value from official product information sheet for a 65-inch model.;proxy;;Average Generic;70
+LG_65UJ6309;LG;65UJ6309;GEMINI_API;no;TV;136;Value found on Icecat product specification for the exact model.;strict;;Average Generic;70
+LG_65UJ634V;LG;65UJ634V;GEMINI_API;no;TV;116;Value obtained from LG product page and multiple reliable review sites.;strict;;Average Generic;70
+LG_65UJ6519;LG;65UJ6519;GEMINI_API;no;TV;104;Value obtained from LG energy label document and product specifications.;strict;;Average Generic;70
+LG_65UK6400PLF;LG;65UK6400PLF;GEMINI_API;no;TV;147;Value from multiple specifications and user manuals for the exact model number.;strict;;Average Generic;70
+LG_65UK6470PLC;LG;65UK6470PLC;GEMINI_API;no;TV;147;Value found on product specification pages as typical/average power consumption.;strict;;Average Generic;70
+LG_65UK6500LLA;LG;65UK6500LLA;GEMINI_API;no;TV;118;Value found on LG 65UK6500LLA product specification sheets.;strict;;Average Generic;70
+LG_65UK6750PLD;LG;65UK6750PLD;GEMINI_API;no;TV;118;Value obtained from multiple specification sheets listing average power consumption.;strict;;Average Generic;70
+LG_65UM7000PLA;LG;65UM7000PLA;GEMINI_API;no;TV;142;Value found on Epey UK;strict;;Average Generic;70
+LG_65UM7050PLA;LG;65UM7050PLA;GEMINI_API;no;TV;142;Value found on DisplaySpecifications;strict;;Average Generic;70
+LG_65UM7100PLA;LG;65UM7100PLA;GEMINI_API;no;TV;142;Value found as average power consumption in standard work mode.;strict;;Average Generic;70
+LG_65UM7510PLA;LG;65UM7510PLA;GEMINI_API;no;TV;148;Value obtained from multiple specifications and product pages for the exact model.;strict;;Average Generic;70
+LG_65UN70006LA;LG;65UN70006LA;EPREL_LOCAL;yes;TV;135;Found in local EPREL DB (Model: 65UN70006LA);exact_local;0.5;Average Generic;70
+LG_65UN71006LB;LG;65UN71006LB;EPREL_LOCAL;yes;TV;136;Found in local EPREL DB (Model: 65UN71006LB);exact_local;0.5;Average Generic;70
+LG_65UN73006LA;LG;65UN73006LA;GEMINI_API;no;TV;136;Value obtained from LG Product Information Sheet.;strict;;Average Generic;70
+LG_65UN74007LB;LG;65UN74007LB;EPREL_LOCAL;yes;TV;136;Found in local EPREL DB (Model: 65UN74007LB);exact_local;0.5;Average Generic;70
+LG_65UP75009LF;LG;65UP75009LF;EPREL_LOCAL;yes;TV;136;Found in local EPREL DB (Model: 65UP75009LF);exact_local;0.5;Average Generic;70
+LG_65UR73006LA;LG;65UR73006LA;EPREL_LOCAL;yes;TV;110;Found in local EPREL DB (Model: 65UR73006LA);exact_local;0.5;Average Generic;70
+LG_65UT73006LA;LG;65UT73006LA;EPREL_LOCAL;yes;TV;110;Found in local EPREL DB (Model: 65UT73006LA);exact_local;0.5;Average Generic;70
+LG_70UJ675V;LG;70UJ675V;GEMINI_API;no;TV;132;Value found in a product specifications sheet.;strict;;Average Generic;70
+LG_70UK6950PLA;LG;70UK6950PLA;GEMINI_API;no;TV;179;The power consumption (typical) is listed as 179 W in multiple specification sheets and user manuals.;strict;;Average Generic;70
+LG_70UM7100PLA;LG;70UM7100PLA;GEMINI_API;no;TV;177;"Value found on multiple specification sites for ""average power consumption in standard work mode"".";strict;;Average Generic;70
+LG_70UM7450PLA;LG;70UM7450PLA;GEMINI_API;no;TV;177;Value found on LG regional sites and spec aggregators.;strict;;Average Generic;70
+LG_70UN71006LA;LG;70UN71006LA;EPREL_LOCAL;yes;TV;149;Found in local EPREL DB (Model: 70UN71006LA);exact_local;0.5;Average Generic;70
+LG_75SM8610PLA;LG;75SM8610PLA;GEMINI_API;no;TV;149;Value from LG TV specifications and Epey UK.;strict;;Average Generic;70
+LG_75UJ675V;LG;75UJ675V;GEMINI_API;no;TV;132;The on-mode power consumption (SDR) is 132 W;strict;;Average Generic;70
+LG_75UK6200PLB;LG;75UK6200PLB;GEMINI_API;no;TV;198;Value found on multiple reputable specification sites for the exact model.;strict;;Average Generic;70
+LG_75UK6500PLA;LG;75UK6500PLA;GEMINI_API;no;TV;198;Value found from multiple reliable sources listing average power consumption.;strict;;Average Generic;70
+LG_75UM7000PLA;LG;75UM7000PLA;GEMINI_API;no;TV;195;Value obtained from product specifications and ERP document for the exact model.;strict;;Average Generic;70
+LG_75UM7050PLF;LG;75UM7050PLF;GEMINI_API;no;TV;195;Value from multiple product specifications and energy labels.;strict;;Average Generic;70
+LG_75UN70706LD;LG;75UN70706LD;EPREL_LOCAL;yes;TV;170;Found in local EPREL DB (Model: 75UN70706LD);exact_local;0.5;Average Generic;70
+LG_75UN71006LC;LG;75UN71006LC;EPREL_LOCAL;yes;TV;170;Found in local EPREL DB (Model: 75UN71006LC);exact_local;0.5;Average Generic;70
+LG_75UR78006LK;LG;75UR78006LK;EPREL_LOCAL;yes;TV;127;Found in local EPREL DB (Model: 75UR78006LK);exact_local;0.5;Average Generic;70
+LG_86UM7600PLB;LG;86UM7600PLB;GEMINI_API;no;TV;248;Value obtained from DisplaySpecifications and ZKelectronics;strict;;Average Generic;70
+LG_86UN85006LA;LG;86UN85006LA;EPREL_LOCAL;yes;TV;202;Found in local EPREL DB (Model: 86UN85006LA);exact_local;0.5;Average Generic;70
+LG_Generic WebOS TV;LG;Generic WebOS TV;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+LG_NetCast Smart TV;LG;NetCast Smart TV;GEMINI_API;no;TV;150;LG 55LM6200 datasheet specifies on-mode power consumption as 150W.;proxy;;Average Generic;70
+LG_OLED42C27LA;LG;OLED42C27LA;GEMINI_API;no;TV;51.9;Value from LG Product Information Sheet for OLED42C27LA.;strict;;Average Generic;70
+LG_OLED42C29LB;LG;OLED42C29LB;GEMINI_API;no;TV;51.9;Value obtained from the LG Electronics Product Information Sheet for OLED42C29LB.;strict;;Average Generic;70
+LG_OLED48A19LA;LG;OLED48A19LA;EPREL_LOCAL;yes;TV;74;Found in local EPREL DB (Model: OLED48A19LA);exact_local;0.5;Average Generic;70
+LG_OLED48A29LA;LG;OLED48A29LA;EPREL_LOCAL;yes;TV;64.8;Found in local EPREL DB (Model: OLED48A29LA);exact_local;0.5;Average Generic;70
+LG_OLED48C16LA;LG;OLED48C16LA;EPREL_LOCAL;yes;TV;88;Found in local EPREL DB (Model: OLED48C16LA);exact_local;0.5;Average Generic;70
+LG_OLED48C17LB;LG;OLED48C17LB;EPREL_LOCAL;yes;TV;88;Found in local EPREL DB (Model: OLED48C17LB);exact_local;0.5;Average Generic;70
+LG_OLED48C18LA;LG;OLED48C18LA;EPREL_LOCAL;yes;TV;88;Found in local EPREL DB (Model: OLED48C18LA);exact_local;0.5;Average Generic;70
+LG_OLED48C19LA;LG;OLED48C19LA;EPREL_LOCAL;yes;TV;88;Found in local EPREL DB (Model: OLED48C19LA);exact_local;0.5;Average Generic;70
+LG_OLED48C24LA;LG;OLED48C24LA;GEMINI_API;no;TV;65.9;Value obtained from the product information sheet for OLED48C24LA.;strict;;Average Generic;70
+LG_OLED48C27LA;LG;OLED48C27LA;EPREL_LOCAL;yes;TV;65.9;Found in local EPREL DB (Model: OLED48C27LA);exact_local;0.5;Average Generic;70
+LG_OLED48C37LA;LG;OLED48C37LA;EPREL_LOCAL;yes;TV;65.7;Found in local EPREL DB (Model: OLED48C37LA);exact_local;0.5;Average Generic;70
+LG_OLED48CX8LC;LG;OLED48CX8LC;EPREL_LOCAL;yes;TV;90.8;Found in local EPREL DB (Model: OLED48CX8LC);exact_local;0.5;Average Generic;70
+LG_OLED48CX9LB;LG;OLED48CX9LB;EPREL_LOCAL;yes;TV;90.8;Found in local EPREL DB (Model: OLED48CX9LB);exact_local;0.5;Average Generic;70
+LG_OLED55A19LA;LG;OLED55A19LA;EPREL_LOCAL;yes;TV;91;Found in local EPREL DB (Model: OLED55A19LA);exact_local;0.5;Average Generic;70
+LG_OLED55A29LA;LG;OLED55A29LA;GEMINI_API;no;TV;72;Value obtained from multiple product specifications and energy labels.;strict;;Average Generic;70
+LG_OLED55B19LA;LG;OLED55B19LA;GEMINI_API;no;TV;104;Value obtained from the LG Product Information Sheet.;strict;;Average Generic;70
+LG_OLED55B29LA;LG;OLED55B29LA;EPREL_LOCAL;yes;TV;83.7;Found in local EPREL DB (Model: OLED55B29LA);exact_local;0.5;Average Generic;70
+LG_OLED55B39LA;LG;OLED55B39LA;EPREL_LOCAL;yes;TV;83.7;Found in local EPREL DB (Model: OLED55B39LA);exact_local;0.5;Average Generic;70
+LG_OLED55B6D;LG;OLED55B6D;GEMINI_API;no;TV;145;Value obtained from official LG Germany website and LG document.;strict;;Average Generic;70
+LG_OLED55B7D;LG;OLED55B7D;GEMINI_API;no;TV;112;Value found on Icecat and ZKelectronics specifications.;strict;;Average Generic;70
+LG_OLED55B87LC;LG;OLED55B87LC;GEMINI_API;no;TV;110;Value obtained from LG OLED55B87LC product specifications and user manuals.;strict;;Average Generic;70
+LG_OLED55B8LLA;LG;OLED55B8LLA;GEMINI_API;no;TV;110;Value from official ErP document for exact model.;strict;;Average Generic;70
+LG_OLED55B8SLC;LG;OLED55B8SLC;GEMINI_API;no;TV;110;The typical on-mode power consumption is 110 W based on multiple specifications.;strict;;Average Generic;70
+LG_OLED55B97LA;LG;OLED55B97LA;GEMINI_API;no;TV;107;Value found on manufacturer's ERP document for the exact model.;strict;;Average Generic;70
+LG_OLED55B9DLA;LG;OLED55B9DLA;GEMINI_API;no;TV;107;The power consumption of 107 Watts was found on multiple LG specification sheets and product data.;strict;;Average Generic;70
+LG_OLED55BX9LB;LG;OLED55BX9LB;EPREL_LOCAL;yes;TV;104;Found in local EPREL DB (Model: OLED55BX9LB);exact_local;0.5;Average Generic;70
+LG_OLED55C14LB;LG;OLED55C14LB;EPREL_LOCAL;yes;TV;106;Found in local EPREL DB (Model: OLED55C14LB);exact_local;0.5;Average Generic;70
+LG_OLED55C16LA;LG;OLED55C16LA;EPREL_LOCAL;yes;TV;106;Found in local EPREL DB (Model: OLED55C16LA);exact_local;0.5;Average Generic;70
+LG_OLED55C17LB;LG;OLED55C17LB;EPREL_LOCAL;yes;TV;106;Found in local EPREL DB (Model: OLED55C17LB);exact_local;0.5;Average Generic;70
+LG_OLED55C18LA;LG;OLED55C18LA;EPREL_LOCAL;yes;TV;106;Found in local EPREL DB (Model: OLED55C18LA);exact_local;0.5;Average Generic;70
+LG_OLED55C19LA;LG;OLED55C19LA;EPREL_LOCAL;yes;TV;106;Found in local EPREL DB (Model: OLED55C19LA);exact_local;0.5;Average Generic;70
+LG_OLED55C27LA;LG;OLED55C27LA;EPREL_LOCAL;yes;TV;81;Found in local EPREL DB (Model: OLED55C27LA);exact_local;0.5;Average Generic;70
+LG_OLED55C29LD;LG;OLED55C29LD;GEMINI_API;no;TV;81;Value from the official LG Product Information Sheet.;strict;;Average Generic;70
+LG_OLED55C31LA;LG;OLED55C31LA;EPREL_LOCAL;yes;TV;81;Found in local EPREL DB (Model: OLED55C31LA);exact_local;0.5;Average Generic;70
+LG_OLED55C37LA;LG;OLED55C37LA;EPREL_LOCAL;yes;TV;81;Found in local EPREL DB (Model: OLED55C37LA);exact_local;0.5;Average Generic;70
+LG_OLED55C39LC;LG;OLED55C39LC;EPREL_LOCAL;yes;TV;81;Found in local EPREL DB (Model: OLED55C39LC);exact_local;0.5;Average Generic;70
+LG_OLED55C6D;LG;OLED55C6D;GEMINI_API;no;TV;145;Value found on the official LG Germany product page for the OLED55C6D.;proxy;;Average Generic;70
+LG_OLED55C7D;LG;OLED55C7D;GEMINI_API;no;TV;112;Value obtained from ZKelectronics and Photopoint for typical/on-mode power.;strict;;Average Generic;70
+LG_OLED55C8LLA;LG;OLED55C8LLA;GEMINI_API;no;TV;113;Value found in LG ERP document and product specifications.;strict;;Average Generic;70
+LG_OLED55C97LA;LG;OLED55C97LA;GEMINI_API;no;TV;111;Value obtained from the LG OLED55C97LA ERP document and specifications.;strict;;Average Generic;70
+LG_OLED55C9PLA;LG;OLED55C9PLA;GEMINI_API;no;TV;109;Value found on LG OLED55C9PLA energy label.;strict;;Average Generic;70
+LG_OLED55CS9LA;LG;OLED55CS9LA;EPREL_LOCAL;yes;TV;83.9;Found in local EPREL DB (Model: OLED55CS9LA);exact_local;0.5;Average Generic;70
+LG_OLED55CX8LB;LG;OLED55CX8LB;EPREL_LOCAL;yes;TV;106;Found in local EPREL DB (Model: OLED55CX8LB);exact_local;0.5;Average Generic;70
+LG_OLED55CX9LA;LG;OLED55CX9LA;EPREL_LOCAL;yes;TV;106;Found in local EPREL DB (Model: OLED55CX9LA);exact_local;0.5;Average Generic;70
+LG_OLED55E7N;LG;OLED55E7N;GEMINI_API;no;TV;112;"Found ""Power Consumption (On mode): 112 W"" in product specifications.";strict;;Average Generic;70
+LG_OLED55E8LLA;LG;OLED55E8LLA;GEMINI_API;no;TV;113;Power Consumption (Typical) from ZKelectronics.;strict;;Average Generic;70
+LG_OLED55E97LA;LG;OLED55E97LA;GEMINI_API;no;TV;111;The typical power consumption is listed on the LG DE website and other reliable spec sites.;strict;;Average Generic;70
+LG_OLED55G19LA;LG;OLED55G19LA;EPREL_LOCAL;yes;TV;107;Found in local EPREL DB (Model: OLED55G19LA);exact_local;0.5;Average Generic;70
+LG_OLED55G29LA;LG;OLED55G29LA;EPREL_LOCAL;yes;TV;81;Found in local EPREL DB (Model: OLED55G29LA);exact_local;0.5;Average Generic;70
+LG_OLED55G39LA;LG;OLED55G39LA;EPREL_LOCAL;yes;TV;76.9;Found in local EPREL DB (Model: OLED55G39LA);exact_local;0.5;Average Generic;70
+LG_OLED55GX9LA;LG;OLED55GX9LA;EPREL_LOCAL;yes;TV;111;Found in local EPREL DB (Model: OLED55GX9LA);exact_local;0.5;Average Generic;70
+LG_OLED65A19LA;LG;OLED65A19LA;EPREL_LOCAL;yes;TV;109;Found in local EPREL DB (Model: OLED65A19LA);exact_local;0.5;Average Generic;70
+LG_OLED65B19LA;LG;OLED65B19LA;EPREL_LOCAL;yes;TV;122;Found in local EPREL DB (Model: OLED65B19LA);exact_local;0.5;Average Generic;70
+LG_OLED65B29LA;LG;OLED65B29LA;EPREL_LOCAL;yes;TV;105;Found in local EPREL DB (Model: OLED65B29LA);exact_local;0.5;Average Generic;70
+LG_OLED65B39LA;LG;OLED65B39LA;EPREL_LOCAL;yes;TV;102;Found in local EPREL DB (Model: OLED65B39LA);exact_local;0.5;Average Generic;70
+LG_OLED65B4ELA;LG;OLED65B4ELA;EPREL_LOCAL;yes;TV;98.1;Found in local EPREL DB (Model: OLED65B4ELA);exact_local;0.5;Average Generic;70
+LG_OLED65B6D;LG;OLED65B6D;GEMINI_API;no;TV;145;Value found on LG official site and multiple specification sheets.;strict;;Average Generic;70
+LG_OLED65B7D;LG;OLED65B7D;GEMINI_API;no;TV;154;Value obtained from LG's official product page and other reliable sources.;strict;;Average Generic;70
+LG_OLED65B87LC;LG;OLED65B87LC;GEMINI_API;no;TV;148;Value from LG OLED65B87LC energy efficiency specifications on Otto.;strict;;Average Generic;70
+LG_OLED65B8LLA;LG;OLED65B8LLA;GEMINI_API;no;TV;102;Value obtained from LG Product Information Sheet for the exact model.;strict;;Average Generic;70
+LG_OLED65B8SLC;LG;OLED65B8SLC;GEMINI_API;no;TV;148;Found average power consumption for LG OLED65B8SLC (65-inch) on specification sites.;strict;;Average Generic;70
+LG_OLED65B97LA;LG;OLED65B97LA;GEMINI_API;no;TV;133;Value found on E-Catalog and confirmed by ERP document.;strict;;Average Generic;70
+LG_OLED65BX9LB;LG;OLED65BX9LB;EPREL_LOCAL;yes;TV;122;Found in local EPREL DB (Model: OLED65BX9LB);exact_local;0.5;Average Generic;70
+LG_OLED65C16LA;LG;OLED65C16LA;EPREL_LOCAL;yes;TV;126;Found in local EPREL DB (Model: OLED65C16LA);exact_local;0.5;Average Generic;70
+LG_OLED65C17LB;LG;OLED65C17LB;EPREL_LOCAL;yes;TV;126;Found in local EPREL DB (Model: OLED65C17LB);exact_local;0.5;Average Generic;70
+LG_OLED65C19LA;LG;OLED65C19LA;EPREL_LOCAL;yes;TV;126;Found in local EPREL DB (Model: OLED65C19LA);exact_local;0.5;Average Generic;70
+LG_OLED65C27LA;LG;OLED65C27LA;EPREL_LOCAL;yes;TV;97.2;Found in local EPREL DB (Model: OLED65C27LA);exact_local;0.5;Average Generic;70
+LG_OLED65C29LD;LG;OLED65C29LD;EPREL_LOCAL;yes;TV;97.2;Found in local EPREL DB (Model: OLED65C29LD);exact_local;0.5;Average Generic;70
+LG_OLED65C31LA;LG;OLED65C31LA;EPREL_LOCAL;yes;TV;96.9;Found in local EPREL DB (Model: OLED65C31LA);exact_local;0.5;Average Generic;70
+LG_OLED65C7D;LG;OLED65C7D;GEMINI_API;no;TV;154;Value from ZKelectronics for typical power consumption of OLED65C7D.;strict;;Average Generic;70
+LG_OLED65C8LLA;LG;OLED65C8LLA;GEMINI_API;no;TV;150;Value from product specifications for LG OLED65C8LLA.;strict;;Average Generic;70
+LG_OLED65C97LA;LG;OLED65C97LA;GEMINI_API;no;TV;137;Value from LG datasheet and ERP document.;strict;;Average Generic;70
+LG_OLED65CS9LA;LG;OLED65CS9LA;EPREL_LOCAL;yes;TV;105;Found in local EPREL DB (Model: OLED65CS9LA);exact_local;0.5;Average Generic;70
+LG_OLED65CX9LA;LG;OLED65CX9LA;EPREL_LOCAL;yes;TV;133;Found in local EPREL DB (Model: OLED65CX9LA);exact_local;0.5;Average Generic;70
+LG_OLED65E7V;LG;OLED65E7V;GEMINI_API;no;TV;154;Value found on ZKelectronics and DisplaySpecifications as average power consumption.;strict;;Average Generic;70
+LG_OLED65E8LLA;LG;OLED65E8LLA;GEMINI_API;no;TV;113;Value obtained from the typical/average power consumption listed in product specifications for the LG OLED55E8LLA.;proxy;;Average Generic;70
+LG_OLED65E97LA;LG;OLED65E97LA;GEMINI_API;no;TV;137;Value found on LG product sheets and specification sites.;strict;;Average Generic;70
+LG_OLED65G19LA;LG;OLED65G19LA;EPREL_LOCAL;yes;TV;128;Found in local EPREL DB (Model: OLED65G19LA);exact_local;0.5;Average Generic;70
+LG_OLED65G29LA;LG;OLED65G29LA;EPREL_LOCAL;yes;TV;95;Found in local EPREL DB (Model: OLED65G29LA);exact_local;0.5;Average Generic;70
+LG_OLED65G39LA;LG;OLED65G39LA;EPREL_LOCAL;yes;TV;96.9;Found in local EPREL DB (Model: OLED65G39LA);exact_local;0.5;Average Generic;70
+LG_OLED65G7V;LG;OLED65G7V;GEMINI_API;no;TV;84.6;"Value obtained from LG product information sheet for ""On mode power demand in Standard Dynamic Range (SDR)"".";strict;;Average Generic;70
+LG_OLED65GX9LA;LG;OLED65GX9LA;EPREL_LOCAL;yes;TV;138;Found in local EPREL DB (Model: OLED65GX9LA);exact_local;0.5;Average Generic;70
+LG_OLED77C9PLA;LG;OLED77C9PLA;GEMINI_API;no;TV;179;Value from LG and technical specification sites;strict;;Average Generic;70
+LG_Smart  TV;LG;Smart  TV;GEMINI_API;no;TV;103.1;Value obtained from ENERGY STAR certification for a 54.6 inch LG OLED Smart TV (OLED55C4PU).;proxy;;Average Generic;70
+LG_Smart+ TV;LG;Smart+ TV;GEMINI_API;no;TV;81;Value derived from LG OLED Evo C3 55 Inch energy consumption (SDR) per 1000 hours.;proxy;;Average Generic;70
+Loewe_Generic Smart TV 2021;Loewe;Generic Smart TV 2021;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average 2021;58.537608
+Loewe_SL420;Loewe;SL420;GEMINI_API;no;TV;149;Value from Loewe Reference 55 SL4xx product information sheet;proxy;;Average Generic;70
+MXQ_P281;MXQ;P281;GEMINI_API;no;OTHER;5;On-mode power consumption measured for MXQ Pro Smart TV Box is less than 5W.;proxy;;Average Generic;70
+Mecool_KM1;Mecool;KM1;GEMINI_API;no;OTHER;5;Value found in MECOOL KM1 specifications on a review site.;strict;;Average Generic;70
+Mecool_KM9 Pro;Mecool;KM9 Pro;GEMINI_API;no;OTHER;3.8;"Value derived from ""Basic use"" power consumption in a review.";strict;;Average Generic;70
+Medion_Generic TV;Medion;Generic TV;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+Microsoft_XBOX One;Microsoft;XBOX One;GEMINI_API;no;OTHER;27;Value for Xbox One console's navigation mode.;strict;;Average Generic;70
+Nebula_D2342;Nebula;D2342;GEMINI_API;no;OTHER;72;The power consumption was found in a projector database.;strict;;Average Generic;70
+Nokia_Generic TV;Nokia;Generic TV;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+Nvidia_Shield Android TV;Nvidia;Shield Android TV;GEMINI_API;no;OTHER;6.9;Value obtained from FlatpanelsHD review for Nvidia Shield 2019 4K SDR streaming.;strict;;Average Generic;70
+O2_SML-5442TW;O2;SML-5442TW;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+OK._Generic TV;OK.;Generic TV;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+Onn_4K Streaming Box;Onn;4K Streaming Box;GEMINI_API;no;OTHER;5;Value is based on the power adapter rating for the Onn. Google TV 4K Streaming Box (2023).;strict;;Average Generic;70
+Panasonic_2KTV-2TH;Panasonic;2KTV-2TH;GEMINI_API;no;TV;103;Value obtained from Panasonic product specification sheet for a 55-inch 4K UHD LCD TV (TH-55CQ1U) used as a proxy.;proxy;;Average Generic;70
+Panasonic_4KTV-JUP;Panasonic;4KTV-JUP;GEMINI_API;no;TV;82;Value from Panasonic UK/Sweden product specifications for TX-55MX800B/E.;proxy;;Average Generic;70
+Panasonic_AFTBOXE1;Panasonic;AFTBOXE1;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Panasonic_AFTGOLD01;Panasonic;AFTGOLD01;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Panasonic_AFTGOLDFF;Panasonic;AFTGOLDFF;GEMINI_API;no;TV;88;Value from Panasonic UK specs for TX-55JX940B.;proxy;;Average Generic;70
+Panasonic_Generic Google TV;Panasonic;Generic Google TV;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+Panasonic_Generic Smart TV 2018;Panasonic;Generic Smart TV 2018;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average 2018;32.089024
+Panasonic_Generic Smart TV 2019;Panasonic;Generic Smart TV 2019;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average 2019;45.75627
+Panasonic_Generic Smart TV 2021;Panasonic;Generic Smart TV 2021;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average 2021;58.537608
+Panasonic_Generic Smart TV 2022;Panasonic;Generic Smart TV 2022;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average 2022;60.828801
+Panasonic_Generic Smart TV 2023;Panasonic;Generic Smart TV 2023;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average 2023;49.790091
+Panasonic_Generic TV;Panasonic;Generic TV;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+Panasonic_Smart TV 2020;Panasonic;Smart TV 2020;GEMINI_API;no;TV;105;Value from Panasonic's official specifications for TX-55HZ1000B (2020 model).;proxy;;Average 2020;67.138485
+Panasonic_Viera 2016;Panasonic;Viera 2016;GEMINI_API;no;TV;115;Value obtained from Panasonic UK & Ireland specifications for the TX-55DX600B.;strict;;Average 2016;19.5
+Panasonic_Viera 2017;Panasonic;Viera 2017;GEMINI_API;no;TV;120;Value from DisplayDB and DisplaySpecifications for Panasonic TX-55EZ950 average power consumption.;proxy;;Average 2017;34.904762
+Panasonic_Viera 2018;Panasonic;Viera 2018;GEMINI_API;no;TV;89;Value obtained from Panasonic's official product information sheet for the 2018 TX-55FX750B model.;strict;;Average 2018;32.089024
+Panasonic_Viera 2019;Panasonic;Viera 2019;GEMINI_API;no;TV;117;Value obtained from Panasonic's official specifications for 2019 55-inch Viera OLED TVs.;proxy;;Average 2019;45.75627
+Panasonic_Viera 2020;Panasonic;Viera 2020;GEMINI_API;no;TV;105;Value from Panasonic TX-55HZ1000B product information sheet.;proxy;;Average 2020;67.138485
+Panasonic_Viera 2021;Panasonic;Viera 2021;GEMINI_API;no;TV;150;Value from Panasonic Viera TH-55JX750DX 55-inch TV specifications.;strict;;Average 2021;58.537608
+Panasonic_Viera 2022;Panasonic;Viera 2022;GEMINI_API;no;TV;77;Value from Panasonic TV-55Z80BEZ energy data (77 kWh/1000h).;proxy;;Average 2022;60.828801
+Panasonic_Viera 2023;Panasonic;Viera 2023;GEMINI_API;no;TV;120;Value from energy label equivalent (120 kWh/1000h) for Panasonic TX-55MZ1500B (2023 55-inch OLED TV).;proxy;;Average 2023;49.790091
+Panasonic_none;Panasonic;none;GEMINI_API;no;TV;64;Value from Panasonic TX-55LX800B energy data sheet.;proxy;;Average Generic;70
+Philips_32PFS6906/12;Philips;32PFS6906/12;GEMINI_API;no;TV;35;Value found on Philips product pages and specifications documents.;strict;;Average Generic;70
+Philips_43PUS6704/12;Philips;43PUS6704/12;GEMINI_API;no;TV;71;Value found on Philips EU Energy Label and multiple specification sites.;strict;;Average Generic;70
+Philips_43PUS6804/12;Philips;43PUS6804/12;GEMINI_API;no;TV;71;Value found on Philips energy label and specifications for the exact model number.;strict;;Average Generic;70
+Philips_43PUS7334/12;Philips;43PUS7334/12;GEMINI_API;no;TV;71;Value from Philips official specifications and product pages.;strict;;Average Generic;70
+Philips_43PUS7354/12;Philips;43PUS7354/12;GEMINI_API;no;TV;71;Value obtained from multiple Philips product specifications and energy labels.;strict;;Average Generic;70
+Philips_43PUS7505/12;Philips;43PUS7505/12;GEMINI_API;no;TV;131;Value from the EU energy card for SDR on-mode power demand.;strict;;Average Generic;70
+Philips_43PUS7555/12;Philips;43PUS7555/12;GEMINI_API;no;TV;131;Value obtained from Philips product specifications (On mode power demand for SDR).;strict;;Average Generic;70
+Philips_43PUS7805/12;Philips;43PUS7805/12;GEMINI_API;no;TV;63;Value found on Philips specifications and multiple product data sheets.;strict;;Average Generic;70
+Philips_43PUS7906/12;Philips;43PUS7906/12;GEMINI_API;no;TV;65;Value obtained from official Philips product sheet with EPREL registration number.;strict;;Average Generic;70
+Philips_43PUS7956/12;Philips;43PUS7956/12;GEMINI_API;no;TV;65;The SDR on-mode power consumption for the Philips 43PUS7956/12 is 65 kWh/1000h;strict;;Average Generic;70
+Philips_43PUS8105/12;Philips;43PUS8105/12;GEMINI_API;no;TV;63;The SDR power consumption is 63 W;strict;;Average Generic;70
+Philips_43PUS8106/12;Philips;43PUS8106/12;GEMINI_API;no;TV;65;Value found on Philips official technical specifications for the exact model.;strict;;Average Generic;70
+Philips_43PUS8505/12;Philips;43PUS8505/12;GEMINI_API;no;TV;65;Value obtained from the official Philips product page for 43PUS8505/12.;strict;;Average Generic;70
+Philips_43PUS8506/12;Philips;43PUS8506/12;GEMINI_API;no;TV;62;Value obtained from Philips official product specifications and energy label.;strict;;Average Generic;70
+Philips_43PUS8507/12;Philips;43PUS8507/12;GEMINI_API;no;TV;54;The power consumption was found on Philips' official product specifications and energy label for the exact model.;strict;;Average Generic;70
+Philips_43PUS8536/12;Philips;43PUS8536/12;GEMINI_API;no;TV;62;The SDR on-mode power demand is 62 kWh/1000h (62 Watts) according to Philips specifications.;strict;;Average Generic;70
+Philips_43PUS8545/12;Philips;43PUS8545/12;GEMINI_API;no;TV;65;Value derived from official Philips specifications and energy label data for SDR.;strict;;Average Generic;70
+Philips_43PUS8555/12;Philips;43PUS8555/12;GEMINI_API;no;TV;65;Value obtained from Philips official product specifications for 43PUS8555/12.;strict;;Average Generic;70
+Philips_43PUS8808/12;Philips;43PUS8808/12;GEMINI_API;no;TV;52;The SDR on-mode power demand for the Philips 43PUS8808/12 is 52 kWh/1000h;strict;;Average Generic;70
+Philips_43PUS9235/12;Philips;43PUS9235/12;GEMINI_API;no;TV;63;Value from official EU Product Information Sheet for 43PUS9235/12.;strict;;Average Generic;70
+Philips_48OLED707/12;Philips;48OLED707/12;GEMINI_API;no;TV;66;The SDR on-mode power consumption is 66 W;strict;;Average Generic;70
+Philips_48OLED935/12;Philips;48OLED935/12;GEMINI_API;no;TV;80;Value found on the official Philips product page as 80 kWh/1000h for SDR.;strict;;Average Generic;70
+Philips_48OLED936/12;Philips;48OLED936/12;GEMINI_API;no;TV;90;Value from Philips official product page EU Energy card for 48OLED936/12.;strict;;Average Generic;70
+Philips_50PUS6704/12;Philips;50PUS6704/12;GEMINI_API;no;TV;72;The EU Energy Label power and average power consumption for the Philips 50PUS6704/12 is 72 W.;strict;;Average Generic;70
+Philips_50PUS6754/12;Philips;50PUS6754/12;GEMINI_API;no;TV;72;Value from Philips product page and other spec sheets for the exact model.;strict;;Average Generic;70
+Philips_50PUS6804/12;Philips;50PUS6804/12;GEMINI_API;no;TV;73;Value found on Philips product specification and multiple energy label references.;strict;;Average Generic;70
+Philips_50PUS6814/12;Philips;50PUS6814/12;GEMINI_API;no;TV;84;Found on Philips official product page and DisplaySpecifications.com.;strict;;Average Generic;70
+Philips_50PUS7304;Philips;50PUS7304;GEMINI_API;no;TV;72;Value found in official Philips specifications and multiple tech review sites.;strict;;Average Generic;70
+Philips_50PUS7504/12;Philips;50PUS7504/12;GEMINI_API;no;TV;73;Value from Philips official product page energy label.;strict;;Average Generic;70
+Philips_50PUS7505/12;Philips;50PUS7505/12;GEMINI_API;no;TV;144;Value obtained from the official Philips product page for the 50PUS7505/12 model.;strict;;Average Generic;70
+Philips_50PUS7555/12;Philips;50PUS7555/12;GEMINI_API;no;TV;74;Value found on Philips product page and information sheet.;strict;;Average Generic;70
+Philips_50PUS7855/12;Philips;50PUS7855/12;GEMINI_API;no;TV;75;The SDR on-mode power consumption is 75 W;strict;;Average Generic;70
+Philips_50PUS7906/12;Philips;50PUS7906/12;GEMINI_API;no;TV;80;Value obtained from Philips official specifications for the exact model number.;strict;;Average Generic;70
+Philips_50PUS7956/12;Philips;50PUS7956/12;GEMINI_API;no;TV;55;Value from Philips official EU Energy Label for 50PUS7956/12.;strict;;Average Generic;70
+Philips_50PUS8105/12;Philips;50PUS8105/12;GEMINI_API;no;TV;75;Value found on Philips official technical specifications.;strict;;Average Generic;70
+Philips_50PUS8505/12;Philips;50PUS8505/12;GEMINI_API;no;TV;85;Value obtained from the official Philips product information sheet.;strict;;Average Generic;70
+Philips_50PUS8545/12;Philips;50PUS8545/12;GEMINI_API;no;TV;85;Value found on the Philips product page for On mode power demand for SDR.;strict;;Average Generic;70
+Philips_50PUS8546/12;Philips;50PUS8546/12;GEMINI_API;no;TV;81;Value obtained from Philips product fiche and energy label.;strict;;Average Generic;70
+Philips_50PUS8555/12;Philips;50PUS8555/12;GEMINI_API;no;TV;85;Value from Philips product page and EU Energy card for SDR.;strict;;Average Generic;70
+Philips_50PUS8808/12;Philips;50PUS8808/12;GEMINI_API;no;TV;69;Value found on Philips official product page and energy label.;strict;;Average Generic;70
+Philips_55OLED705/12;Philips;55OLED705/12;GEMINI_API;no;TV;103;Value obtained from Philips product specifications for on-mode SDR power in kWh/1000h.;strict;;Average Generic;70
+Philips_55OLED706/12;Philips;55OLED706/12;GEMINI_API;no;TV;105;The power consumption was found on the Philips official product information sheet.;strict;;Average Generic;70
+Philips_55OLED707/12;Philips;55OLED707/12;GEMINI_API;no;TV;84;Value obtained from Philips official energy label for SDR on-mode power.;strict;;Average Generic;70
+Philips_55OLED708/12;Philips;55OLED708/12;GEMINI_API;no;TV;84;Value obtained from the official Philips product page and energy label.;strict;;Average Generic;70
+Philips_55OLED804/12;Philips;55OLED804/12;GEMINI_API;no;TV;147;Value obtained from official Philips product specifications and user manual.;strict;;Average Generic;70
+Philips_55OLED806/12;Philips;55OLED806/12;GEMINI_API;no;TV;110;Value found on Philips official website and energy label for SDR power.;strict;;Average Generic;70
+Philips_55OLED807/12;Philips;55OLED807/12;GEMINI_API;no;TV;84;Value from Philips product page and energy label.;strict;;Average Generic;70
+Philips_55OLED808/12;Philips;55OLED808/12;GEMINI_API;no;TV;83;Value obtained from Philips official product page and energy label.;strict;;Average Generic;70
+Philips_55OLED837/12;Philips;55OLED837/12;GEMINI_API;no;TV;84;Value found on Philips energy label document.;strict;;Average Generic;70
+Philips_55OLED854/12;Philips;55OLED854/12;GEMINI_API;no;TV;147;Value found on Philips' official product page and other reliable tech sites.;strict;;Average Generic;70
+Philips_55OLED855/12;Philips;55OLED855/12;GEMINI_API;no;TV;88;Value from Philips' official EU energy label.;strict;;Average Generic;70
+Philips_55OLED856/12;Philips;55OLED856/12;GEMINI_API;no;TV;110;Value obtained from Philips product information sheet and multiple official Philips specifications.;strict;;Average Generic;70
+Philips_55PUS6704/12;Philips;55PUS6704/12;GEMINI_API;no;TV;85;The average power consumption is explicitly stated as 85 W in multiple product specifications.;strict;;Average Generic;70
+Philips_55PUS6804/12;Philips;55PUS6804/12;GEMINI_API;no;TV;84;Value obtained from Philips official website and energy label for the exact model.;strict;;Average Generic;70
+Philips_55PUS7304/12;Philips;55PUS7304/12;GEMINI_API;no;TV;86;Value from official Philips energy label and specification sheets.;strict;;Average Generic;70
+Philips_55PUS7394/12;Philips;55PUS7394/12;GEMINI_API;no;TV;86;Value found on Philips product specification sheets and energy labels.;strict;;Average Generic;70
+Philips_55PUS7805/12;Philips;55PUS7805/12;GEMINI_API;no;TV;94;Value from Philips manufacturer specifications (SDR) of 94 kWh/1000h.;strict;;Average Generic;70
+Philips_55PUS7855/12;Philips;55PUS7855/12;GEMINI_API;no;TV;94;The SDR on-mode power consumption of 94 W was found on the official Philips product specification sheet.;strict;;Average Generic;70
+Philips_55PUS7906/12;Philips;55PUS7906/12;GEMINI_API;no;TV;91;Value found on Philips official product specifications.;strict;;Average Generic;70
+Philips_55PUS7956/12;Philips;55PUS7956/12;GEMINI_API;no;TV;91;Value obtained from the official Philips product specifications.;strict;;Average Generic;70
+Philips_55PUS8007/12;Philips;55PUS8007/12;GEMINI_API;no;TV;77;Value obtained from Philips product page and DisplaySpecifications.;strict;;Average Generic;70
+Philips_55PUS8106/12;Philips;55PUS8106/12;GEMINI_API;no;TV;91;Value from Philips official specifications and energy label for the exact model.;strict;;Average Generic;70
+Philips_55PUS8804/12;Philips;55PUS8804/12;GEMINI_API;no;TV;93;The SDR on-mode power consumption is 93W;strict;;Average Generic;70
+Philips_55PUS8807/12;Philips;55PUS8807/12;GEMINI_API;no;TV;82;The value is from the official Philips product page and energy label.;strict;;Average Generic;70
+Philips_55PUS8808/12;Philips;55PUS8808/12;GEMINI_API;no;TV;61;The value comes from the official Philips product specifications and energy label.;strict;;Average Generic;70
+Philips_55PUS9435/12;Philips;55PUS9435/12;GEMINI_API;no;TV;96;The SDR on-mode power is 96 W;strict;;Average Generic;70
+Philips_58PUS6504/12;Philips;58PUS6504/12;GEMINI_API;no;TV;72;The Philips product page and other reliable sources state 72 W for EU Energy Label power.;strict;;Average Generic;70
+Philips_58PUS7555/12;Philips;58PUS7555/12;GEMINI_API;no;TV;81;Value from EU Energy Label power and normal consumption.;strict;;Average Generic;70
+Philips_58PUS8105/12;Philips;58PUS8105/12;GEMINI_API;no;TV;95;Value found on Philips product sheet for the exact model.;strict;;Average Generic;70
+Philips_58PUS8505/12;Philips;58PUS8505/12;GEMINI_API;no;TV;88;The SDR on-mode power consumption is from the official Philips product information sheet.;strict;;Average Generic;70
+Philips_58PUS8506/12;Philips;58PUS8506/12;GEMINI_API;no;TV;90;Value obtained from Philips official specifications and energy labels.;strict;;Average Generic;70
+Philips_58PUS8535/12;Philips;58PUS8535/12;GEMINI_API;no;TV;88;Value obtained from Philips product specifications and EU energy labels.;strict;;Average Generic;70
+Philips_58PUS8555/12;Philips;58PUS8555/12;GEMINI_API;no;TV;88;Value found on Philips product page for On mode power demand for SDR.;strict;;Average Generic;70
+Philips_58PUS8556/12;Philips;58PUS8556/12;GEMINI_API;no;TV;90;The SDR on-mode power demand is listed as 90 kWh/1000h on the Philips product page and other reliable sources.;strict;;Average Generic;70
+Philips_65OLED706/12;Philips;65OLED706/12;GEMINI_API;no;TV;137;Value found on Philips official product page specifications.;strict;;Average Generic;70
+Philips_65OLED707/12;Philips;65OLED707/12;GEMINI_API;no;TV;112;Value from Philips energy label and Epey UK specifications.;strict;;Average Generic;70
+Philips_65OLED708/12;Philips;65OLED708/12;GEMINI_API;no;TV;112;Value found on official Philips product page and energy label.;strict;;Average Generic;70
+Philips_65OLED806/12;Philips;65OLED806/12;GEMINI_API;no;TV;135;Value obtained from Philips product page/energy label for SDR on-mode power.;strict;;Average Generic;70
+Philips_65OLED854;Philips;65OLED854;GEMINI_API;no;TV;140;Value found on Product Information Sheet for SDR power demand.;strict;;Average Generic;70
+Philips_65OLED855/12;Philips;65OLED855/12;GEMINI_API;no;TV;137;Value from Philips product specifications/EU energy card.;strict;;Average Generic;70
+Philips_65OLED935/12;Philips;65OLED935/12;GEMINI_API;no;TV;105;Value from Philips official product page.;strict;;Average Generic;70
+Philips_65OLED936/12;Philips;65OLED936/12;GEMINI_API;no;TV;136;Value from Philips official product page and multiple spec sheets.;strict;;Average Generic;70
+Philips_65PUS6704/12;Philips;65PUS6704/12;GEMINI_API;no;TV;100;Value found on Philips energy label and specifications.;strict;;Average Generic;70
+Philips_65PUS6804/12;Philips;65PUS6804/12;GEMINI_API;no;TV;99;Value from Philips energy label and specification sheets.;strict;;Average Generic;70
+Philips_65PUS7304/12;Philips;65PUS7304/12;GEMINI_API;no;TV;108;Value found on EU Energy Label power and product specifications from Philips.;strict;;Average Generic;70
+Philips_65PUS7354;Philips;65PUS7354;GEMINI_API;no;TV;108;The on-mode power consumption for the Philips 65PUS7354 is 108 W according to multiple energy labels and specifications.;strict;;Average Generic;70
+Philips_65PUS7805/12;Philips;65PUS7805/12;GEMINI_API;no;TV;109;The SDR on-mode power demand is listed as 109 W in the product information sheet.;strict;;Average Generic;70
+Philips_65PUS7855/12;Philips;65PUS7855/12;GEMINI_API;no;TV;108;Value from official Philips product information sheet.;strict;;Average Generic;70
+Philips_65PUS7906/12;Philips;65PUS7906/12;GEMINI_API;no;TV;116;Value found on Philips product specification pages and EU Energy labels.;strict;;Average Generic;70
+Philips_65PUS8106/12;Philips;65PUS8106/12;GEMINI_API;no;TV;116;The power consumption was found on the official Philips product page and DisplaySpecifications.;strict;;Average Generic;70
+Philips_65PUS8505/12;Philips;65PUS8505/12;GEMINI_API;no;TV;107;Value obtained from Philips official product specifications and energy label for SDR.;strict;;Average Generic;70
+Philips_65PUS8507/12;Philips;65PUS8507/12;GEMINI_API;no;TV;109;Value obtained from Philips official specifications and energy labels.;strict;;Average Generic;70
+Philips_65PUS8555/12;Philips;65PUS8555/12;GEMINI_API;no;TV;105;Value found on the official Philips energy label for the 65PUS8555/12.;strict;;Average Generic;70
+Philips_65PUS9435/12;Philips;65PUS9435/12;GEMINI_API;no;TV;122;Value obtained from the Philips official website and product information sheet.;strict;;Average Generic;70
+Philips_70PUS6504/12;Philips;70PUS6504/12;GEMINI_API;no;TV;111;The power consumption (average) is from the Philips energy label and specifications.;strict;;Average Generic;70
+Philips_70PUS7304/12;Philips;70PUS7304/12;GEMINI_API;no;TV;108;Value from Philips product page and DisplaySpecifications for 70PUS7304/12.;strict;;Average Generic;70
+Philips_70PUS7555/12;Philips;70PUS7555/12;GEMINI_API;no;TV;224;Value obtained from Philips official product page EU Energy card for SDR in kWh/1000h;strict;;Average Generic;70
+Philips_70PUS7805/12;Philips;70PUS7805/12;GEMINI_API;no;TV;113;Value obtained from official Philips product specifications and energy label.;strict;;Average Generic;70
+Philips_70PUS7855/12;Philips;70PUS7855/12;GEMINI_API;no;TV;113;The SDR on-mode power consumption is 113 W (113 kWh/1000h) as found on Philips product specifications and energy labels.;strict;;Average Generic;70
+Philips_70PUS8105/12;Philips;70PUS8105/12;GEMINI_API;no;TV;113;Value from Philips official product page and EU Energy card for SDR.;strict;;Average Generic;70
+Philips_70PUS8506/12;Philips;70PUS8506/12;GEMINI_API;no;TV;121;The SDR on-mode power consumption is from the Philips product specification.;strict;;Average Generic;70
+Philips_75PUS7906/12;Philips;75PUS7906/12;GEMINI_API;no;TV;147;Value obtained from Philips' official technical specifications.;strict;;Average Generic;70
+Philips_75PUS8506/12;Philips;75PUS8506/12;GEMINI_API;no;TV;164;Value found on Philips official product pages and energy labels.;strict;;Average Generic;70
+Philips_Android TV;Philips;Android TV;GEMINI_API;no;TV;105;Value obtained from Philips product page for model 55OLED706/12.;strict;;Average Generic;70
+Philips_DDR1010;Philips;DDR1010;GEMINI_API;no;OTHER;5;The Philips DDR1010 is an Android TV dongle;strict;;Average Generic;70
+Philips_Generic Android FHD TV;Philips;Generic Android FHD TV;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+Philips_Generic Android TV;Philips;Generic Android TV;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+Philips_Google TV TA1;Philips;Google TV TA1;GEMINI_API;no;TV;72;Value from Philips 55PUS8118/12 energy label;proxy;;Average Generic;70
+Philips_MLED910 Series TV;Philips;MLED910 Series TV;GEMINI_API;no;TV;77;Value obtained from the Philips 55MLED910/12 energy label and product specifications.;strict;;Average Generic;70
+Philips_OLED760 Series TV;Philips;OLED760 Series TV;GEMINI_API;no;TV;77;The SDR on-mode power consumption for the Philips 55OLED760/12 is 77W.;strict;;Average Generic;70
+Philips_PFS6900 Series TV;Philips;PFS6900 Series TV;GEMINI_API;no;TV;54;Value from Philips product page for 55PFS6909/12.;proxy;;Average Generic;70
+Philips_PFS6908;Philips;PFS6908;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Philips_PHS6000 Series TV;Philips;PHS6000 Series TV;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Philips_PHS6808 Series TV;Philips;PHS6808 Series TV;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Philips_PML9008;Philips;PML9008;GEMINI_API;no;TV;77;Value from Philips official technical specifications and energy labels for the 55PML9008 model.;strict;;Average Generic;70
+Philips_PUS7000 Series TV;Philips;PUS7000 Series TV;GEMINI_API;no;TV;64;Value found on Philips product specifications and energy label for 55PUS7000/12.;strict;;Average Generic;70
+Philips_PUS7009 Series TV;Philips;PUS7009 Series TV;GEMINI_API;no;TV;61;SDR on-mode power consumption (61 W) found on multiple product specification sites and Philips energy label.;strict;;Average Generic;70
+Philips_PUS7556;Philips;PUS7556;GEMINI_API;no;TV;88;Value obtained from official Philips specifications for the 55PUS7556/12.;strict;;Average Generic;70
+Philips_PUS7607;Philips;PUS7607;GEMINI_API;no;TV;76;Value found on Philips energy label document.;strict;;Average Generic;70
+Philips_PUS7657;Philips;PUS7657;GEMINI_API;no;TV;76;Value obtained from Philips' energy label and product specifications.;strict;;Average Generic;70
+Philips_PUS7800 Series TV;Philips;PUS7800 Series TV;GEMINI_API;no;TV;63;Value from Philips 55PUS7800/12 EU Energy card for SDR.;strict;;Average Generic;70
+Philips_PUS8000 Series TV;Philips;PUS8000 Series TV;GEMINI_API;no;TV;63;Value obtained from the Philips 55PUS8000/12 energy label.;strict;;Average Generic;70
+Philips_PUS8108;Philips;PUS8108;GEMINI_API;no;TV;72;Value obtained from Philips official energy label documentation.;strict;;Average Generic;70
+Philips_PUS8500 Series TV;Philips;PUS8500 Series TV;GEMINI_API;no;TV;68;Value from Philips official product page and energy labels.;strict;;Average Generic;70
+Philips_PUS9000 Series TV;Philips;PUS9000 Series TV;GEMINI_API;no;TV;77;Value found on Philips product specification and energy label for 55PUS9000/12.;strict;;Average Generic;70
+Philips_QM151E;Philips;QM151E;GEMINI_API;no;TV;105;Found SDR on-mode power for a Philips 55-inch OLED TV (55OLED706/12) as a proxy;proxy;;Average Generic;70
+Philips_QM152E;Philips;QM152E;GEMINI_API;no;TV;105;Value from Philips 55OLED706/12 energy label linked to QM152E.;strict;;Average Generic;70
+Philips_QM161E;Philips;QM161E;GEMINI_API;no;TV;94;Value found on Philips 55OLED806/12 energy label (94 kWh/1000h SDR).;proxy;;Average Generic;70
+Philips_QM163E;Philips;QM163E;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Philips_QM164E;Philips;QM164E;GEMINI_API;no;TV;82;Value from Philips Product Information Sheet for 55PUS8807/12.;proxy;;Average Generic;70
+Philips_Smart TV;Philips;Smart TV;GEMINI_API;no;TV;84;Value from Philips 55OLED807/12 product information sheet/EU Energy card.;proxy;;Average Generic;70
+Philips_TPM171E;Philips;TPM171E;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Philips_TPM181HE;Philips;TPM181HE;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Philips_TPM191E;Philips;TPM191E;GEMINI_API;no;TV;110;Value from Philips 55OLED806/12 energy label;strict;;Average Generic;70
+Roku_Digital Video player;Roku;Digital Video player;GEMINI_API;no;TV;98.08;Calculated from Roku Inc. Model 55CC Energy Guide yearly consumption.;proxy;;Average Generic;70
+Rupa_Generic Smart TV;Rupa;Generic Smart TV;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+SDMC_D1221;SDMC;D1221;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+SDMC_G1;SDMC;G1;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+SDMC_GV01;SDMC;GV01;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+SDMC_OTT-G1;SDMC;OTT-G1;GEMINI_API;no;OTHER;5;Power consumption for Telekom MagentaTV Stick/SDMC OTT-G1 found on Galaxus specifications.;proxy;;Average Generic;70
+SEI Robotic_150;SEI Robotic;150;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+SEI Robotics_ATV-101;SEI Robotics;ATV-101;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+SEI Robotics_MagentaTV One (2nd Generation);SEI Robotics;MagentaTV One (2nd Generation);GEMINI_API;no;OTHER;5.2;Value from Sotel.de technical specifications for operating power.;strict;;Average Generic;70
+SEI Robotics_PGS4000;SEI Robotics;PGS4000;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+SEI Robotics_Stick 4K;SEI Robotics;Stick 4K;GEMINI_API;no;OTHER;5;Value obtained from a technical article on Homatics Stick 4K.;strict;;Average Generic;70
+SEI Robotics_Waipu 4K TV stick;SEI Robotics;Waipu 4K TV stick;GEMINI_API;no;OTHER;2.9;Stiftung Warentest reported 2.9 W in operation.;strict;;Average Generic;70
+SEI Robotics_Waipu TV Box;SEI Robotics;Waipu TV Box;GEMINI_API;no;OTHER;2.35;Value obtained from waipu.tv specifications for on-mode power consumption.;strict;;Average Generic;70
+Sagem_DIW362P 1U1;Sagem;DIW362P 1U1;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Sagemcom_DCIW387 UHD;Sagemcom;DCIW387 UHD;GEMINI_API;no;SET-TOP BOX;24;Calculated from 12VDC;strict;;Average Generic;70
+Sagemcom_DIW387 UHD 1U1;Sagemcom;DIW387 UHD 1U1;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Sagemcom_TV 3;Sagemcom;TV 3;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Sagemcom_TV Soundbar;Sagemcom;TV Soundbar;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Sak_SKWHP44H-ZWL;Sak;SKWHP44H-ZWL;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Sampo_R4;Sampo;R4;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Samsung_Android TV with Chromecast;Samsung;Android TV with Chromecast;GEMINI_API;no;TV;63;Value from Samsung Product Information Sheet for a 55-inch QLED TV.;proxy;;Average Generic;70
+Samsung_DU7000;Samsung;DU7000;GEMINI_API;no;TV;144;Value is from the Yearly Power Consumption (EU standard) on Samsung's official site for the UA55DU7000KXXS.;strict;;Average Generic;70
+Samsung_Generic TV;Samsung;Generic TV;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+Samsung_LS03A;Samsung;LS03A;GEMINI_API;no;TV;88;"Value found as ""Typical"" power consumption for the 55 inch LS03A model.";strict;;Average Generic;70
+Samsung_LS03AP;Samsung;LS03AP;GEMINI_API;no;TV;88;Value obtained from retailer specifications for Samsung The Frame LS03A 55 inch.;proxy;;Average Generic;70
+Samsung_LS03B;Samsung;LS03B;GEMINI_API;no;TV;84;Value from energy label specifications for Samsung LS03B.;strict;;Average Generic;70
+Samsung_LS03R;Samsung;LS03R;GEMINI_API;no;TV;62;Value found on RTINGS.com for Samsung The Frame 2019 TV.;strict;;Average Generic;70
+Samsung_LS03T;Samsung;LS03T;GEMINI_API;no;TV;80;Value from B&H Photo specifications for operational power.;strict;;Average Generic;70
+Samsung_Q60D;Samsung;Q60D;GEMINI_API;no;TV;63;Value from Samsung product information sheet for TQ55Q60DAU.;strict;;Average Generic;70
+Samsung_Q60DD;Samsung;Q60DD;GEMINI_API;no;TV;63;Value from Manuals.plus for Samsung Q60D QE55Q60DAU 55-inch.;strict;;Average Generic;70
+Samsung_QAQ50_K;Samsung;QAQ50_K;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Samsung_QAQ60;Samsung;QAQ60;GEMINI_API;no;TV;63;Value obtained from official EU Energy Label for Samsung TQ55Q60DAU (55 inch).;proxy;;Average Generic;70
+Samsung_QAQ6D;Samsung;QAQ6D;GEMINI_API;no;TV;102;Value from Samsung's specifications for a 55 inch Series 6 Q6 QLED TV.;proxy;;Average Generic;70
+Samsung_QAQ70;Samsung;QAQ70;GEMINI_API;no;TV;77;"Value found on AV.com for Samsung Q70A 55"" as typical power consumption.";proxy;;Average Generic;70
+Samsung_QAQ7D;Samsung;QAQ7D;GEMINI_API;no;TV;64;Value obtained from Samsung Q70D 2024 energy label (SDR kWh/1000h).;proxy;;Average Generic;70
+Samsung_QAQ80;Samsung;QAQ80;GEMINI_API;no;TV;84;Value is from an EU Energy Label for a Samsung QE55Q80CAT 55 inch TV.;proxy;;Average Generic;70
+Samsung_QAQ85;Samsung;QAQ85;GEMINI_API;no;TV;77;Value obtained from Samsung energy label for QE55QN85CAT 55 inch.;proxy;;Average Generic;70
+Samsung_QAQ90;Samsung;QAQ90;GEMINI_API;no;TV;63;Value from Samsung website for QN90D 55 inch and Rtings review for QN55Q90TAFXZA.;proxy;;Average Generic;70
+Samsung_QAQ95;Samsung;QAQ95;GEMINI_API;no;TV;82;Value obtained from product information sheet for a proxy model (Samsung QE55QN95C).;proxy;;Average Generic;70
+Samsung_QAQ9D;Samsung;QAQ9D;GEMINI_API;no;TV;77;Value from Samsung QE55QN90DAT energy label for 55-inch SDR.;proxy;;Average Generic;70
+Samsung_QAQ9X;Samsung;QAQ9X;GEMINI_API;no;TV;103;Value found on energy label for proxy model Samsung QE55QN95A.;proxy;;Average Generic;70
+Samsung_QBQ60;Samsung;QBQ60;GEMINI_API;no;TV;63;Value obtained from the typical power consumption and SDR energy consumption of the Samsung QE55Q60DAU (Q60D series) 55-inch TV.;proxy;;Average Generic;70
+Samsung_QBQ6D;Samsung;QBQ6D;GEMINI_API;no;TV;63;Value obtained from multiple specifications pages for the Samsung QE55Q60D/QE55Q60DAU;proxy;;Average Generic;70
+Samsung_QBQ7X;Samsung;QBQ7X;GEMINI_API;no;TV;135;"Typical power consumption from Samsung product page for 55"" Q7 QLED TV.";proxy;;Average Generic;70
+Samsung_QBQ80;Samsung;QBQ80;GEMINI_API;no;TV;77;Value found on a product listing for Samsung Q80D QE55Q80DAT (55 inch).;proxy;;Average Generic;70
+Samsung_QBQ90;Samsung;QBQ90;GEMINI_API;no;TV;99.05;Value from ENERGY STAR certification for Samsung QN55QN90CAF 55-inch TV.;proxy;;Average Generic;70
+Samsung_QBQ95;Samsung;QBQ95;GEMINI_API;no;TV;82;Value obtained from Samsung energy label for GQ55QN95CAT 55-inch model.;proxy;;Average Generic;70
+Samsung_QBQ9D;Samsung;QBQ9D;GEMINI_API;no;TV;162;Value from Samsung QN90B 2022 55-inch typical power consumption.;proxy;;Average Generic;70
+Samsung_QBQ9X;Samsung;QBQ9X;GEMINI_API;no;TV;155;Value is from the energy consumption for a 55-inch Samsung Q90T QLED TV (on-mode).;proxy;;Average Generic;70
+Samsung_QCQ60;Samsung;QCQ60;GEMINI_API;no;TV;87;Value obtained from Samsung's official product page for typical power consumption.;proxy;;Average Generic;70
+Samsung_QCQ85;Samsung;QCQ85;GEMINI_API;no;TV;77;Value from Samsung energy label for GQ55QN85CAT (55 inch).;proxy;;Average Generic;70
+Samsung_QCQ90;Samsung;QCQ90;GEMINI_API;no;TV;72;Value from ENERGY STAR certification for a proxy model QN55QN90CAF (QN90C 55 inch).;proxy;;Average Generic;70
+Samsung_QCQ90D;Samsung;QCQ90D;GEMINI_API;no;TV;81;Value obtained from Samsung's official specifications for the 55-inch QN90D model.;proxy;;Average Generic;70
+Samsung_QCQS90;Samsung;QCQS90;GEMINI_API;no;TV;99.05;Value obtained from ENERGY STAR certification for a proxy Samsung QN55QN90CAF 55 inch TV.;proxy;;Average Generic;70
+Samsung_QCQS95;Samsung;QCQS95;GEMINI_API;no;TV;84;Value obtained from an EU energy label for the Samsung QE55S95CAT.;proxy;;Average Generic;70
+Samsung_QN90D;Samsung;QN90D;GEMINI_API;no;TV;114;Value from Samsung's official product page under typical power consumption.;strict;;Average Generic;70
+Samsung_QRQ60;Samsung;QRQ60;GEMINI_API;no;TV;111;Value obtained from Samsung's official website and Epey UK for the 55-inch Q60R model.;proxy;;Average Generic;70
+Samsung_QRQ6X;Samsung;QRQ6X;GEMINI_API;no;TV;63;Value obtained from Samsung Q60D 55-inch specifications;proxy;;Average Generic;70
+Samsung_QRQ70;Samsung;QRQ70;GEMINI_API;no;TV;58;Value obtained from RTINGS.com review of the Samsung Q70R (QRQ70) 55-inch TV.;strict;;Average Generic;70
+Samsung_QRQ80;Samsung;QRQ80;GEMINI_API;no;TV;157;Value is listed as Typical Power Consumption in Samsung Q80R 55 inch TV specifications.;proxy;;Average Generic;70
+Samsung_QRQ85 OC;Samsung;QRQ85 OC;GEMINI_API;no;TV;80;Value from Samsung QN85D 55 inch SDR energy label.;proxy;;Average Generic;70
+Samsung_QRQ90;Samsung;QRQ90;GEMINI_API;no;TV;84;Value from Samsung QN90B 55 inch SDR Energy Consumption (1000h) on Epey UK and DisplaySpecifications.;proxy;;Average Generic;70
+Samsung_QTQ60;Samsung;QTQ60;GEMINI_API;no;TV;53;Value from Samsung QE55Q60CAU specifications;proxy;;Average Generic;70
+Samsung_QTQ6E;Samsung;QTQ6E;GEMINI_API;no;TV;111;Value found on Samsung's official page for a similar 55-inch QLED TV.;proxy;;Average Generic;70
+Samsung_QTQ70;Samsung;QTQ70;GEMINI_API;no;TV;132;The value is from an EU energy label for a 55-inch Samsung Q70T series TV.;proxy;;Average Generic;70
+Samsung_QTQ7X;Samsung;QTQ7X;GEMINI_API;no;TV;103;Value found on an official Samsung energy label for the QE55Q70T model.;proxy;;Average Generic;70
+Samsung_QTQ80;Samsung;QTQ80;GEMINI_API;no;TV;110;Value obtained from the Samsung Energy Label for QE55Q80AAT.;proxy;;Average Generic;70
+Samsung_QTQ800;Samsung;QTQ800;GEMINI_API;no;TV;140;Value obtained from RTINGS.com review of Samsung Q800T power consumption.;strict;;Average Generic;70
+Samsung_QTQ8E;Samsung;QTQ8E;GEMINI_API;no;TV;155;Value found on Samsung specifications for a Series 8 Q8 55 inch QLED TV.;proxy;;Average Generic;70
+Samsung_QTQ90;Samsung;QTQ90;GEMINI_API;no;TV;84;SDR Energy Consumption (1000h) found on product specifications for Samsung 55QN90B.;proxy;;Average Generic;70
+Samsung_QTQ95;Samsung;QTQ95;GEMINI_API;no;TV;155;Value from DisplaySpecifications for average power consumption of Samsung QE55Q95T.;strict;;Average Generic;70
+Samsung_S90D;Samsung;S90D;GEMINI_API;no;TV;81;The SDR power consumption is 81 W;strict;;Average Generic;70
+Samsung_S90F;Samsung;S90F;EPREL_LOCAL;yes;TV;89;Found in local EPREL DB (Model: TQ65S90FAT);exact_local;0.5;Average Generic;70
+Samsung_S95D;Samsung;S95D;GEMINI_API;no;TV;115;Value obtained from RTINGS.com TV review;proxy;;Average Generic;70
+Samsung_S9XD;Samsung;S9XD;GEMINI_API;no;TV;81;Value derived from the EU energy label for the TQ55S90DAE 55-inch model.;proxy;;Average Generic;70
+Samsung_Smart TV 2016;Samsung;Smart TV 2016;GEMINI_API;no;TV;99;Value obtained from HDTVTest review for the Samsung UE55KS9000 in default standard mode.;proxy;;Average 2016;19.5
+Samsung_Smart TV 2017;Samsung;Smart TV 2017;GEMINI_API;no;TV;85;On-mode power consumption (SDR) found on an energy label for Samsung UE55MU6100.;proxy;;Average 2017;34.904762
+Samsung_Smart TV 2018;Samsung;Smart TV 2018;GEMINI_API;no;TV;105.8;Value derived from Energy Star annual consumption for 2018 Samsung 55-inch QN90F QLED TV.;strict;;Average 2018;32.089024
+Samsung_Smart TV 2020;Samsung;Smart TV 2020;GEMINI_API;no;TV;69;Value obtained from Samsung Q70T 55-inch 2020 product specifications as 'Typical Power Consumption'.;proxy;;Average 2020;67.138485
+Samsung_Smart TV 2021;Samsung;Smart TV 2021;GEMINI_API;no;TV;84;The Samsung QN90A 55 inch (2021 model) consumed 84 kWh/1000h in SDR mode.;proxy;;Average 2021;58.537608
+Samsung_Smart TV 2023;Samsung;Smart TV 2023;GEMINI_API;no;TV;84;Value found on an EU Product Information Sheet for Samsung TQ55Q80CAT and Samsung Business site for QE55Q80CATXXU.;proxy;;Average 2023;49.790091
+Samsung_Smart TV 2024;Samsung;Smart TV 2024;GEMINI_API;no;TV;77;Value obtained from the energy label specification of Samsung Q80D 55 inch 2024 model.;proxy;;Average 2024;59.802058
+Samsung_Tizen TV;Samsung;Tizen TV;GEMINI_API;no;TV;63;Derived from energy label SDR power consumption for a 55-inch Samsung QLED Tizen TV.;proxy;;Average Generic;70
+Samsung_UAU7000;Samsung;UAU7000;GEMINI_API;no;TV;101;Value from EU energy label for Samsung UE55AU7000U 55-inch model.;strict;;Average Generic;70
+Samsung_UAU7002;Samsung;UAU7002;GEMINI_API;no;TV;135;Value found on Samsung Philippines official product specification page.;proxy;;Average Generic;70
+Samsung_UAU8000;Samsung;UAU8000;GEMINI_API;no;TV;111;"Value obtained from Samsung Australia official product page for 55"" AU8000 (Typical Power Consumption).";strict;;Average Generic;70
+Samsung_UAU9000;Samsung;UAU9000;GEMINI_API;no;TV;94;Value obtained from the official Samsung energy label (94 kWh/1000h).;strict;;Average Generic;70
+Samsung_UBU8000;Samsung;UBU8000;GEMINI_API;no;TV;93;The SDR energy consumption (1000h) is 93 kWh;proxy;;Average Generic;70
+Samsung_UCU7000;Samsung;UCU7000;GEMINI_API;no;TV;62;Value from DisplaySpecifications and RTINGS for UN55CU7000.;strict;;Average Generic;70
+Samsung_UCU8000;Samsung;UCU8000;GEMINI_API;no;TV;81;The power consumption (typical) is 81W from AV.com.;strict;;Average Generic;70
+Samsung_URU7100;Samsung;URU7100;GEMINI_API;no;TV;110;Value found on multiple official and reputable spec sheets and energy labels.;strict;;Average Generic;70
+Samsung_URU7300;Samsung;URU7300;GEMINI_API;no;TV;114;Value found on an energy label for UE55RU7300K and typical power spec for UA55RU7300.;proxy;;Average Generic;70
+Samsung_URU7400;Samsung;URU7400;GEMINI_API;no;TV;114;Value found on product specifications as average power consumption for UE55RU7400.;strict;;Average Generic;70
+Samsung_URU7410;Samsung;URU7410;GEMINI_API;no;TV;110;Typical power consumption for Samsung 55 inch RU7100 TV from manufacturer's website.;proxy;;Average Generic;70
+Samsung_URU74A0;Samsung;URU74A0;GEMINI_API;no;TV;114;Value obtained from a Samsung energy label for a proxy model (UE55RU7452U).;proxy;;Average Generic;70
+Samsung_URU8000;Samsung;URU8000;GEMINI_API;no;TV;110;Value obtained from Samsung official site and multiple specification listings for the 55-inch RU8000 series.;proxy;;Average Generic;70
+Samsung_UT530E;Samsung;UT530E;GEMINI_API;no;TV;97;Value from Samsung's EU Energy Label for HG55UT530EEXXU.;strict;;Average Generic;70
+Samsung_UTU6900;Samsung;UTU6900;GEMINI_API;no;TV;72;Value obtained from an Rtings.com review of a Samsung TU690T 55-inch TV (proxy model).;proxy;;Average Generic;70
+Samsung_UTU7000;Samsung;UTU7000;GEMINI_API;no;TV;103;Value obtained from Samsung EU energy label for UE55TU7000U/K.;strict;;Average Generic;70
+Samsung_UTU8000;Samsung;UTU8000;GEMINI_API;no;TV;103;SDR energy consumption found on Samsung Energy Label for UE55TU8000.;proxy;;Average Generic;70
+Samsung_UTU8300E;Samsung;UTU8300E;GEMINI_API;no;TV;135;From product specifications on Best Buy.;proxy;;Average Generic;70
+Samsung_UTU8500;Samsung;UTU8500;GEMINI_API;no;TV;101;Value derived from the EU energy label for model UE55TU8500U.;strict;;Average Generic;70
+Senic_SC-96Q Premium;Senic;SC-96Q Premium;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Sharp_Android TV 2021;Sharp;Android TV 2021;GEMINI_API;no;TV;102;The power consumption of 102W for the 55EQ4EA is from the manufacturer's specifications.;proxy;;Average 2021;58.537608
+Sharp_Aquos TVE19A;Sharp;Aquos TVE19A;GEMINI_API;no;TV;160;Value from proxy model Sharp 55EQ4EA's standard power consumption specifications.;proxy;;Average Generic;70
+Sharp_FVP6886;Sharp;FVP6886;GEMINI_API;no;TV;75;Based on EPREL data for Sharp 55FN6EA;proxy;;Average Generic;70
+Sharp_Generic 2K Smart TV;Sharp;Generic 2K Smart TV;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+Sharp_Generic Aquos 8K TV;Sharp;Generic Aquos 8K TV;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+Sharp_Generic Google TV;Sharp;Generic Google TV;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+Sky_ES160;Sky;ES160;GEMINI_API;no;TV;75;The power consumption for Sky Glass Air 55 inch is 75W (SDR) as found on Sky's website.;proxy;;Average Generic;70
+Sky_IP061;Sky;IP061;GEMINI_API;no;TV;75;Value found on Sky's comparison page for 55-inch Sky Glass Air TV.;proxy;;Average Generic;70
+Sky_XiOne;Sky;XiOne;GEMINI_API;no;TV;52;Value obtained from Sky's official comparison page for the Sky Glass Gen 2 55-inch model.;proxy;;Average Generic;70
+Skyworth_Generic Set Top Box;Skyworth;Generic Set Top Box;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+Skyworth_MagentaTV One;Skyworth;MagentaTV One;GEMINI_API;no;OTHER;4.5;Value obtained from Telekom MagentaTV One (2. Gen.) streaming box specifications.;strict;;Average Generic;70
+Skyworth_SKWHP40A-ZWL;Skyworth;SKWHP40A-ZWL;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Skyworth_SWTV-20AE;Skyworth;SWTV-20AE;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Skyworth_SWTV-20AE-PRO;Skyworth;SWTV-20AE-PRO;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Skyworth_SWTV-22AE;Skyworth;SWTV-22AE;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Skyworth_SWTV-22AE-4K;Skyworth;SWTV-22AE-4K;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Skyworth_SWTV-22AE-FHD;Skyworth;SWTV-22AE-FHD;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Sony_4K AE1;Sony;4K AE1;GEMINI_API;no;TV;135;Value from Sony UK specifications for KD-55A1.;strict;;Average Generic;70
+Sony_BRAVIA 4K VH2;Sony;BRAVIA 4K VH2;GEMINI_API;no;TV;141;Value from Sony K-55S20M2 (BRAVIA 2 II series) specifications.;proxy;;Average Generic;70
+Sony_Bravia 2015;Sony;Bravia 2015;GEMINI_API;no;TV;75;Power consumption for Sony XBR-55X900C (2015) found on Rtings.com.;strict;;Average 2015;30
+Sony_Bravia 4K 2015;Sony;Bravia 4K 2015;GEMINI_API;no;TV;75;Value obtained from Rtings.com specifications for the Sony X900C series.;proxy;;Average 2015;30
+Sony_Bravia 4K AE2;Sony;Bravia 4K AE2;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Sony_Bravia 4K GB;Sony;Bravia 4K GB;GEMINI_API;no;TV;72;Value obtained from energy consumption (SDR) per 1000 hours for a Sony Bravia K-55XR80 TV.;proxy;;Average Generic;70
+Sony_Bravia 4K GB ATV3;Sony;Bravia 4K GB ATV3;GEMINI_API;no;TV;108;Value from Sony product page for BRAVIA 3 55 inch 4K Google TV.;strict;;Average Generic;70
+Sony_Bravia 4K UR1;Sony;Bravia 4K UR1;GEMINI_API;no;TV;110;Value from Sony Pro site for a 55-inch BRAVIA 4K HDR Professional Display standard power consumption.;proxy;;Average Generic;70
+Sony_Bravia 4K UR2;Sony;Bravia 4K UR2;GEMINI_API;no;TV;141;The power consumption was found on the Smartprix specifications page for the Sony Bravia 2 II 55 inch TV (K-55S20).;proxy;;Average Generic;70
+Sony_Bravia 4K UR3;Sony;Bravia 4K UR3;GEMINI_API;no;TV;202;Rated Power Consumption for Sony Bravia 3 55 inch (K-55S30) found on Sony's product page.;proxy;;Average Generic;70
+Sony_Bravia 4K VH21;Sony;Bravia 4K VH21;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Sony_Bravia 4K VH22;Sony;Bravia 4K VH22;GEMINI_API;no;TV;82;Value obtained from the energy label and specifications for the Sony XR-55X90L;proxy;;Average Generic;70
+Sony_Bravia 8K VH21;Sony;Bravia 8K VH21;GEMINI_API;no;TV;74;Value found on Sony UK specifications page for a 55-inch Bravia 8 II TV.;proxy;;Average Generic;70
+Sony_Bravia BF1;Sony;Bravia BF1;GEMINI_API;no;TV;110;Value from Sony's Bravia Professional Displays for a 55-inch model's standard power.;proxy;;Average Generic;70
+Sony_Bravia VH1;Sony;Bravia VH1;GEMINI_API;no;TV;145;Value obtained from RTINGS.com specifications for Sony XBR-55X900H.;proxy;;Average Generic;70
+Sony_Bravia VU31;Sony;Bravia VU31;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Sony_Generic Bravia TV;Sony;Generic Bravia TV;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+Sony_KD-43X7055;Sony;KD-43X7055;GEMINI_API;no;TV;100;Value obtained from technical specifications on DisplayDB and DisplaySpecifications.;strict;;Average Generic;70
+Sony_KD-43XE7096;Sony;KD-43XE7096;GEMINI_API;no;TV;65;"Value from Sony's official specifications and other reliable sources as ""Standard"" or ""Average"" power consumption.";strict;;Average Generic;70
+Sony_KD-43XE8077;Sony;KD-43XE8077;GEMINI_API;no;TV;70;Value obtained from Sony's official specifications and other reliable technical data sites.;strict;;Average Generic;70
+Sony_KD-43XF7596;Sony;KD-43XF7596;GEMINI_API;no;TV;66;"Value obtained from Sony's official specifications under ""Power Consumption (in operation) Standard"".";strict;;Average Generic;70
+Sony_KD-43XF8505;Sony;KD-43XF8505;GEMINI_API;no;TV;76;Value obtained from Sony's official specifications and Epey UK.;strict;;Average Generic;70
+Sony_KD-49X7055;Sony;KD-49X7055;GEMINI_API;no;TV;115;"Value found on Tweakers specifications under ""Energieverbruik (SDR) per 1000 uur"" for the exact model.";strict;;Average Generic;70
+Sony_KD-49XD8077;Sony;KD-49XD8077;GEMINI_API;no;TV;80;Value found on Sony UK specifications and other reputable retailers.;strict;;Average Generic;70
+Sony_KD-49XE7005;Sony;KD-49XE7005;GEMINI_API;no;TV;85;Value obtained from Sony's official product specifications for the KD-55XE7005 model.;proxy;;Average Generic;70
+Sony_KD-49XE8005;Sony;KD-49XE8005;GEMINI_API;no;TV;85;Value found on Sony official specifications and multiple electronics sites.;strict;;Average Generic;70
+Sony_KD-49XE8077;Sony;KD-49XE8077;GEMINI_API;no;TV;85;Value found on Sony official specification pages and multiple tech spec sites.;strict;;Average Generic;70
+Sony_KD-49XF7005;Sony;KD-49XF7005;GEMINI_API;no;TV;73;Value found on Sony official specifications and other reliable tech sites.;strict;;Average Generic;70
+Sony_KD-49XF7596;Sony;KD-49XF7596;GEMINI_API;no;TV;77;Value obtained from Sony's official specifications and other reliable sources.;strict;;Average Generic;70
+Sony_KD-49XG7005;Sony;KD-49XG7005;GEMINI_API;no;TV;75;Value obtained from Sony official specifications and user manual.;strict;;Average Generic;70
+Sony_KD-49XG7096;Sony;KD-49XG7096;GEMINI_API;no;TV;75;Value found on Sony official specification pages.;strict;;Average Generic;70
+Sony_KD-55AG8;Sony;KD-55AG8;GEMINI_API;no;TV;130;Value found on Sony official specifications and multiple reliable tech spec sites.;strict;;Average Generic;70
+Sony_KD-55AG9;Sony;KD-55AG9;GEMINI_API;no;TV;132;Value found on Sony product fiche and multiple specifications pages explicitly as Standard or SDR power.;strict;;Average Generic;70
+Sony_KD-55X7055;Sony;KD-55X7055;GEMINI_API;no;TV;110;Value obtained from Sony's official specifications and energy labels (kWh/1000h equivalent to Watts).;strict;;Average Generic;70
+Sony_KD-55XE7005;Sony;KD-55XE7005;GEMINI_API;no;TV;85;Value found on Sony Estonia specifications page as standard power and AiO.lv as typical power.;strict;;Average Generic;70
+Sony_KD-55XE8096;Sony;KD-55XE8096;GEMINI_API;no;TV;106;Value from multiple official Sony specifications and reputable tech sites.;strict;;Average Generic;70
+Sony_KD-55XF7004;Sony;KD-55XF7004;GEMINI_API;no;TV;111;"Value obtained from Sony's official specifications under ""Power Consumption (in operation) Standard"".";strict;;Average Generic;70
+Sony_KD-55XF7005;Sony;KD-55XF7005;GEMINI_API;no;TV;111;Value found on Sony's official product specification pages under 'Power Consumption (in operation) - Standard'.;strict;;Average Generic;70
+Sony_KD-55XF7096;Sony;KD-55XF7096;GEMINI_API;no;TV;111;The SDR power consumption is from the official Sony product specifications.;strict;;Average Generic;70
+Sony_KD-55XF9005;Sony;KD-55XF9005;GEMINI_API;no;TV;145;Value obtained from Sony official specifications and product databases.;strict;;Average Generic;70
+Sony_KD-55XG7004;Sony;KD-55XG7004;GEMINI_API;no;TV;110;Value obtained from Sony's official specifications and a reputable tech site.;strict;;Average Generic;70
+Sony_KD-55XG7005;Sony;KD-55XG7005;GEMINI_API;no;TV;110;Value found on Sony official specification pages under 'Power Consumption (in operation) Standard'.;strict;;Average Generic;70
+Sony_KD-55XG7096;Sony;KD-55XG7096;GEMINI_API;no;TV;110;Value obtained from Sony official product specifications.;strict;;Average Generic;70
+Sony_KD-55XG8096;Sony;KD-55XG8096;GEMINI_API;no;TV;115;Value obtained from official Sony specifications and product listings.;strict;;Average Generic;70
+Sony_KD-55XG8505;Sony;KD-55XG8505;GEMINI_API;no;TV;111;Value obtained from Sony's official specifications and product fiches.;strict;;Average Generic;70
+Sony_KD-55XG8577;Sony;KD-55XG8577;GEMINI_API;no;TV;111;Value found on Sony's official specifications page as 'Standard' power consumption.;strict;;Average Generic;70
+Sony_KD-55XG8588;Sony;KD-55XG8588;GEMINI_API;no;TV;111;Value found on Sony's official specifications page as 'Standard' power consumption.;strict;;Average Generic;70
+Sony_KD-55XG8599;Sony;KD-55XG8599;GEMINI_API;no;TV;111;The standard on-mode power consumption is listed on Sony's official specifications and multiple technical specification sites.;strict;;Average Generic;70
+Sony_KD-55XG9505;Sony;KD-55XG9505;GEMINI_API;no;TV;145;Value obtained from Sony UK specifications and other reliable tech specification sites.;strict;;Average Generic;70
+Sony_KD-65AF9;Sony;KD-65AF9;GEMINI_API;no;TV;190;The SDR on-mode power consumption is listed as 190W on Sony's specifications and other reputable sites.;strict;;Average Generic;70
+Sony_KD-65AG9;Sony;KD-65AG9;GEMINI_API;no;TV;160;Value found on the official product information sheet for SDR on-mode power.;strict;;Average Generic;70
+Sony_KD-65X7055;Sony;KD-65X7055;GEMINI_API;no;TV;151;Value from official Sony product information sheet.;strict;;Average Generic;70
+Sony_KD-65XE7005;Sony;KD-65XE7005;GEMINI_API;no;TV;110;"The SDR on-mode power consumption is stated as ""Standard: 110W"" on Sony's official product specification pages.";strict;;Average Generic;70
+Sony_KD-65XE9005;Sony;KD-65XE9005;GEMINI_API;no;TV;129;The value is from Sony's official specifications and DisplaySpecifications for standard operation.;strict;;Average Generic;70
+Sony_KD-65XF8505;Sony;KD-65XF8505;GEMINI_API;no;TV;120;Value found on Sony's official specifications page and user manual.;strict;;Average Generic;70
+Sony_KD-65XF9005;Sony;KD-65XF9005;GEMINI_API;no;TV;162;Value found on Sony's official energy information and specifications pages.;strict;;Average Generic;70
+Sony_KD-65XG7005;Sony;KD-65XG7005;GEMINI_API;no;TV;151;The SDR power consumption is from the official Sony specifications.;strict;;Average Generic;70
+Sony_KD-65XG7077;Sony;KD-65XG7077;GEMINI_API;no;TV;151;"Value from official Sony specifications for ""Standard"" power consumption.";strict;;Average Generic;70
+Sony_KD-65XG8096;Sony;KD-65XG8096;GEMINI_API;no;TV;156;The SDR on-mode power consumption is stated in the official Sony specifications.;strict;;Average Generic;70
+Sony_KD-65XG8577;Sony;KD-65XG8577;GEMINI_API;no;TV;127;Value found in Sony's official specifications and DisplaySpecifications for the exact model.;strict;;Average Generic;70
+Sony_KD-65XG9505;Sony;KD-65XG9505;GEMINI_API;no;TV;176;The power consumption in on-mode (standard/average) for the Sony KD-65XG9505 is 176 W;strict;;Average Generic;70
+Sony_KD-75XE8596;Sony;KD-75XE8596;GEMINI_API;no;TV;130;Value found on Sony official specifications and reputable tech sites.;strict;;Average Generic;70
+Sony_KD-85XG8596;Sony;KD-85XG8596;GEMINI_API;no;TV;216;Value obtained from Sony UK official specifications for standard power consumption.;strict;;Average Generic;70
+Sony_KDL-32WD605;Sony;KDL-32WD605;GEMINI_API;no;TV;35;Value from Sony official specifications.;strict;;Average Generic;70
+Sony_KDL-32WD755;Sony;KDL-32WD755;GEMINI_API;no;TV;40;Value from Sony specifications and multiple reputable sources.;strict;;Average Generic;70
+Sony_KDL-32WD757;Sony;KDL-32WD757;GEMINI_API;no;TV;40;Value found on a product information sheet and energy labels.;strict;;Average Generic;70
+Sony_KDL-32WD759;Sony;KDL-32WD759;GEMINI_API;no;TV;40;Found 40 kWh/1000h on Sony official specifications;strict;;Average Generic;70
+Sony_KDL-32WE615;Sony;KDL-32WE615;GEMINI_API;no;TV;41;Value obtained from Sony's official specifications and multiple tech specifications websites.;proxy;;Average Generic;70
+Sony_KDL-40WD655;Sony;KDL-40WD655;GEMINI_API;no;TV;48;Value is from Sony's official specifications and DisplaySpecifications.;strict;;Average Generic;70
+Sony_KDL-40WE665;Sony;KDL-40WE665;GEMINI_API;no;TV;48;Value obtained from official Sony specifications for KDL-40WE665.;proxy;;Average Generic;70
+Sony_KDL-43WD755;Sony;KDL-43WD755;GEMINI_API;no;TV;53;Value found in specifications for the Sony KDL-43WD755 (43-inch model).;strict;;Average Generic;70
+Sony_KDL-43WD757;Sony;KDL-43WD757;GEMINI_API;no;TV;53;Value found in official Sony documentation for standard mode power consumption.;strict;;Average Generic;70
+Sony_KDL-43WE755;Sony;KDL-43WE755;GEMINI_API;no;TV;51;The power consumption of 51W is listed on Sony's official specifications and other reputable sites.;strict;;Average Generic;70
+Sony_KDL-43WF665;Sony;KDL-43WF665;GEMINI_API;no;TV;51;Value from Sony official specifications (51 kWh/1000h equates to 51 W).;strict;;Average Generic;70
+Sony_KDL-43WG665;Sony;KDL-43WG665;GEMINI_API;no;TV;46;Value obtained from Sony's official specifications and DisplaySpecifications for the exact model.;strict;;Average Generic;70
+Sony_KDL-48WD655;Sony;KDL-48WD655;GEMINI_API;no;TV;58;Value found in Sony official specifications and tech spec sites.;strict;;Average Generic;70
+Sony_KDL-49WD755;Sony;KDL-49WD755;GEMINI_API;no;TV;61;"Value from multiple specifications listed as ""average"" or ""typical"" consumption.";strict;;Average Generic;70
+Sony_KDL-49WD757;Sony;KDL-49WD757;GEMINI_API;no;TV;61;Value found on official Sony specifications and product fiche.;strict;;Average Generic;70
+Sony_KDL-49WE665;Sony;KDL-49WE665;GEMINI_API;no;TV;60;Value from Sony's official KDL-49WE665 specifications;strict;;Average Generic;70
+Sony_KDL-49WE755;Sony;KDL-49WE755;GEMINI_API;no;TV;63;Value found on Sony official specification pages and DisplaySpecifications.;strict;;Average Generic;70
+Sony_KDL-50WF665;Sony;KDL-50WF665;GEMINI_API;no;TV;80;Value obtained from official product information sheet for SDR on-mode.;strict;;Average Generic;70
+Sony_KE-48A9;Sony;KE-48A9;GEMINI_API;no;TV;114;Value from Sony's official product fiche for KD-48A9;strict;;Average Generic;70
+Sony_PlayStation 4;Sony;PlayStation 4;GEMINI_API;no;OTHER;120;Value represents average power consumption during gaming for a PlayStation 4.;strict;;Average Generic;70
+Sony_PlayStation 5;Sony;PlayStation 5;GEMINI_API;no;OTHER;201.1;Value from PlayStation.com legal page for active gaming (3 game average) of CFI-1116A model.;strict;;Average Generic;70
+Sony_XR-55A80J;Sony;XR-55A80J;GEMINI_API;no;TV;106;Value obtained from the product information sheet and manual.;strict;;Average Generic;70
+Strong_Generic 2K Android TV;Strong;Generic 2K Android TV;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+Swisscom_IP1800;Swisscom;IP1800;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+TCL_AEOCY;TCL;AEOCY;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+TCL_AFTMA475B1;TCL;AFTMA475B1;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+TCL_Beyond TV;TCL;Beyond TV;GEMINI_API;no;TV;70;SDR on-mode power for TCL C6K 55-inch from a retailer's specifications.;proxy;;Average Generic;70
+TCL_Beyond TV 2;TCL;Beyond TV 2;GEMINI_API;no;TV;70;Value from TCL 55C6K 55-inch TV's energy label on Currys.;proxy;;Average Generic;70
+TCL_Percee TV;TCL;Percee TV;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+TCL_Union TV;TCL;Union TV;GEMINI_API;no;TV;83;Value from TCL 55C805 energy label and specifications.;proxy;;Average Generic;70
+TPV_Generic Android TV;TPV;Generic Android TV;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+Tanix_TX3 Mini Plus;Tanix;TX3 Mini Plus;GEMINI_API;no;OTHER;10;Power calculated from 5V/2A power adapter specification.;proxy;;Average Generic;70
+Techwood_Generic TV;Techwood;Generic TV;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+Telefunken_Generic TV;Telefunken;Generic TV;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+Thomson_140G;Thomson;140G;GEMINI_API;no;TV;63;Value obtained from Thomson 55UG4S14 energy label.;proxy;;Average Generic;70
+Thomson_240G;Thomson;240G;GEMINI_API;no;OTHER;12;Power consumption working (max.) 12 W from Thomson's official website and Streamview.com.;strict;;Average Generic;70
+Thomson_Generic Android TV;Thomson;Generic Android TV;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+Toshiba_32V35KE;Toshiba;32V35KE;GEMINI_API;no;TV;86;Value from DisplaySpecifications for Toshiba 55V6863 (proxy model).;proxy;;Average Generic;70
+Toshiba_AFT6E0FA;Toshiba;AFT6E0FA;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Toshiba_Generic Google TV;Toshiba;Generic Google TV;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+Toshiba_Generic TV;Toshiba;Generic TV;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+VS_KM6;VS;KM6;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Vestel_Generic TV;Vestel;Generic TV;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+Vodafone_GigaTV;Vodafone;GigaTV;GEMINI_API;no;OTHER;20;Value taken from technical specifications of Vodafone GigaTV 4K Box for running operation.;proxy;;Average Generic;70
+Vodafone_GigaTV 4k Box;Vodafone;GigaTV 4k Box;GEMINI_API;no;OTHER;20;"Value from Vodafone GigaTV 4k Box technical specifications for ""laufenden Betrieb"".";proxy;;Average Generic;70
+Vontar_X88 Mini 14 TV;Vontar;X88 Mini 14 TV;GEMINI_API;no;OTHER;10;The device is an Android TV box with a 5V/2A power supply.;strict;;Average Generic;70
+Waipu_Waipu TV Hybrid Stick;Waipu;Waipu TV Hybrid Stick;GEMINI_API;no;OTHER;3;Measured 3 Watts during streaming by CHIP for the 2nd Generation stick.;proxy;;Average Generic;70
+XGIMI_WK03K;XGIMI;WK03K;GEMINI_API;no;OTHER;65;Value found in product specifications on XGIMI's official website.;strict;;Average Generic;70
+Xiaomi_AFTBR92D74;Xiaomi;AFTBR92D74;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Xiaomi_C025RGN;Xiaomi;C025RGN;GEMINI_API;no;OTHER;72;The Xiaomi C025RGN is a Smart Projector L1 with a rated power of 72W.;proxy;;Average Generic;70
+Xiaomi_Mi Box 3;Xiaomi;Mi Box 3;GEMINI_API;no;OTHER;5;Value from Xiaomi's official FAQ on Mi Box working power.;strict;;Average Generic;70
+Xiaomi_MiBOX4;Xiaomi;MiBOX4;GEMINI_API;no;OTHER;4;Power consumption for Mi Box 4 is approximately 4W.;strict;;Average Generic;70
+Xiaomi_MiTV-AESP0;Xiaomi;MiTV-AESP0;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Xiaomi_MiTV-AFKR0;Xiaomi;MiTV-AFKR0;GEMINI_API;no;TV;125;Value from Xiaomi TV A 55 2025 and Xiaomi TV A Pro 55 2025 specifications.;proxy;;Average Generic;70
+Xiaomi_MiTV-AFMU0;Xiaomi;MiTV-AFMU0;GEMINI_API;no;OTHER;2;Value from power consumption specifications for Xiaomi TV Box S (3rd Gen) (MiTV-AFMU0).;proxy;;Average Generic;70
+Xiaomi_MiTV-AYFR0;Xiaomi;MiTV-AYFR0;GEMINI_API;no;TV;125;Value found on Xiaomi specs page for proxy model Xiaomi TV A 55 2025.;proxy;;Average Generic;70
+Xiaomi_MiTV-MOEU0;Xiaomi;MiTV-MOEU0;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Xiaomi_MiTV-MOOQ0;Xiaomi;MiTV-MOOQ0;GEMINI_API;no;TV;115;Value obtained from the energy label of a Xiaomi L55M6-6ESG 55-inch TV;proxy;;Average Generic;70
+Xiaomi_MiTV-MOOQ1;Xiaomi;MiTV-MOOQ1;GEMINI_API;no;TV;115;Value found on an energy label for Xiaomi L55M6-6ESG (Mi TV P1 55 inch).;proxy;;Average Generic;70
+Xiaomi_MiTV-MOOR0;Xiaomi;MiTV-MOOR0;GEMINI_API;no;TV;125;Based on official Xiaomi specifications for a proxy 55-inch model (Xiaomi TV A 55 2025).;proxy;;Average Generic;70
+Xiaomi_MiTV-MOOR2;Xiaomi;MiTV-MOOR2;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Xiaomi_MiTV-MOSR1;Xiaomi;MiTV-MOSR1;GEMINI_API;no;TV;115;Value obtained from energy label (L55M6-6ESG;proxy;;Average Generic;70
+Xiaomi_MiTV-MOSR4;Xiaomi;MiTV-MOSR4;GEMINI_API;no;TV;120;Value obtained from Xiaomi's specification for Mi LED TV 4X PRO 55 (Model: L55M4-4XINA).;proxy;;Average Generic;70
+Xiaomi_MiTV-MSSP1;Xiaomi;MiTV-MSSP1;GEMINI_API;no;TV;150;Value from Xiaomi's official specifications for Mi TV P1 55 inch.;proxy;;Average Generic;70
+Xiaomi_MiTV-MSSP2;Xiaomi;MiTV-MSSP2;GEMINI_API;no;TV;160;Value from official Xiaomi specifications for Xiaomi TV Q2 55 inch.;proxy;;Average Generic;70
+Xiaomi_MiTV-MSSP3;Xiaomi;MiTV-MSSP3;GEMINI_API;no;TV;180;"Value for Xiaomi Mi TV 3 55"" listed as ""Consumption"" on Kitele.";proxy;;Average Generic;70
+Xiaomi_MiTV-MZTU0;Xiaomi;MiTV-MZTU0;GEMINI_API;no;TV;125;Power consumption for Xiaomi TV A Pro 55 2025 (MiTV-MZTU0) is 125W according to official specs.;proxy;;Average Generic;70
+Xiaomi_P1;Xiaomi;P1;GEMINI_API;no;TV;125;"Power Consumption for 55"" model is 125W in user manual specs.";strict;;Average Generic;70
+Xming_Generic Google TV;Xming;Generic Google TV;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+ZTE_NETB866VW;ZTE;NETB866VW;GEMINI_API;no;OTHER;3.6;Value from ZTE's official specifications for a closely related Android TV Box model.;proxy;;Average Generic;70
+Zidoo_Z9X Pro;Zidoo;Z9X Pro;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+none_2K AI Smart TV;none;2K AI Smart TV;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_2K TV;none;2K TV;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_4K Box;none;4K Box;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_4K Google TV;none;4K Google TV;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_4K Hybrid STB;none;4K Hybrid STB;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_ADT-3;none;ADT-3;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_AGT419;none;AGT419;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_ATV;none;ATV;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_ATV R2;none;ATV R2;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_Ai Plus 2k;none;Ai Plus 2k;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_Ai Plus 4K;none;Ai Plus 4K;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_Android TV with Chromecast;none;Android TV with Chromecast;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_BLAU-TVE19I;none;BLAU-TVE19I;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_Box R Lite 4K;none;Box R Lite 4K;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_DIW377 1u1;none;DIW377 1u1;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_DTP9503;none;DTP9503;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_DV6067Y;none;DV6067Y;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_Dongle Q;none;Dongle Q;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_Dynalink TV Box;none;Dynalink TV Box;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_GBM1;none;GBM1;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_GD1 4k;none;GD1 4k;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_GD2;none;GD2;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_GTV;none;GTV;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_Generic 2K Android TV;none;Generic 2K Android TV;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_Generic 4K Android TV;none;Generic 4K Android TV;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_Generic 4K Google TV;none;Generic 4K Google TV;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_Generic Android Set Top Box;none;Generic Android Set Top Box;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_Generic Android TV;none;Generic Android TV;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_Generic Set Top Box;none;Generic Set Top Box;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_Generic TV Stick;none;Generic TV Stick;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_Google TV Box;none;Google TV Box;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_Google TV Stick;none;Google TV Stick;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_H96 Max;none;H96 Max;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_H96 Max H313;none;H96 Max H313;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_HD  IP TV-Stick;none;HD  IP TV-Stick;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_HD+ IP TV-Stick;none;HD+ IP TV-Stick;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_I96 D1;none;I96 D1;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_IP2300;none;IP2300;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_KM7;none;KM7;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_Leap-S1;none;Leap-S1;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_MX10;none;MX10;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_Max;none;Max;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_Meta C2;none;Meta C2;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_Mini;none;Mini;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_Q5;none;Q5;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_R3;none;R3;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_RBOX K8;none;RBOX K8;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_SKXI11AIS;none;SKXI11AIS;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_Smart TV;none;Smart TV;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_Smart TV Pro;none;Smart TV Pro;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_Spirit Pro;none;Spirit Pro;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_TV Box;none;TV Box;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_TV98 ATV;none;TV98 ATV;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_W2;none;W2;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_X1 Pro;none;X1 Pro;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_X96 Mate;none;X96 Mate;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_X96Q;none;X96Q;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_X98 Max;none;X98 Max;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_XK03H;none;XK03H;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_XS97 S3;none;XS97 S3;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_none;none;none;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+Hisense_HE43N3500UWTS;Hisense;HE43N3500UWTS;GEMINI_API;no;TV;64;Value from energy efficiency label for Hisense 55A6N.;proxy;;Average Generic;70
+Hisense_HE58A6100FUWT;Hisense;HE58A6100FUWT;GEMINI_API;no;TV;128;Annual power consumption of proxy model Hisense H55A6100 from DisplaySpecifications.com;proxy;;Average Generic;70
+Hisense_HE65K5500UWTS;Hisense;HE65K5500UWTS;GEMINI_API;no;TV;64;Value obtained from Hisense 55U8Q energy label on-mode power demand in SDR.;proxy;;Average Generic;70
+Hisense_LTDN42K680XWSEU3D;Hisense;LTDN42K680XWSEU3D;GEMINI_API;no;TV;58;Value found in Hisense user manual and product specifications.;strict;;Average Generic;70
+Hisense_MICALIDVB6886;Hisense;MICALIDVB6886;GEMINI_API;no;TV;64;Value from energy label for Hisense 55A6N (proxy model) in kWh/1000h converted to Watts.;proxy;;Average Generic;70
+LG_49SK8100LLA;LG;49SK8100LLA;GEMINI_API;no;TV;88;Value found on LG official site and product specifications for LG 55SK8100PLA/LLA.;proxy;;Average Generic;70
+LG_49UH8509;LG;49UH8509;GEMINI_API;no;TV;85;Value obtained from LG DE official specifications and Prad.de data sheet.;proxy;;Average Generic;70
+LG_50UN74006LB;LG;50UN74006LB;EPREL_LOCAL;yes;TV;85;Found in local EPREL DB (Model: 50UN74006LB);exact_local;0.5;Average Generic;70
+LG_55UM7400PLB;LG;55UM7400PLB;GEMINI_API;no;TV;114;The power consumption (typical/average) of 114 W was found on multiple product specification sites for the LG 55UM7400PLB.;strict;;Average Generic;70
+LG_65UH668V;LG;65UH668V;GEMINI_API;no;TV;76;"Value found as ""Power consumption (eco)"" on DisplaySpecifications and Kitele.";strict;;Average Generic;70
+LG_75UM7110PLB;LG;75UM7110PLB;GEMINI_API;no;TV;195;Value found on multiple energy labels and specification sheets for the exact model.;strict;;Average Generic;70
+LG_generic tv;LG;generic tv;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+LG_NetCast 3.0;LG;NetCast 3.0;GEMINI_API;no;TV;67;Value from LG Electronics environmental declaration and Energy Guide label for 55LW5600.;proxy;;Average Generic;70
+LG_NetCast 4.0;LG;NetCast 4.0;GEMINI_API;no;TV;85;Value from LG 55LA690V product specifications and energy label.;proxy;;Average Generic;70
+LG_OLED77B19LA;LG;OLED77B19LA;GEMINI_API;no;TV;160;Value found on LG Product Information Sheet.;strict;;Average Generic;70
+Loewe_SL150;Loewe;SL150;GEMINI_API;no;TV;111;SDR power from Loewe Bild v.55 specifications.;proxy;;Average Generic;70
+Loewe_SL410;Loewe;SL410;GEMINI_API;no;TV;149;Value found on Decoland for Loewe Reference 55 SL4xx;proxy;;Average Generic;70
+Panasonic_DIGA A6320;Panasonic;DIGA A6320;GEMINI_API;no;TV;88;Value obtained from Panasonic's official specifications for a 55-inch LED TV (TX-55JX940B).;proxy;;Average Generic;70
+Panasonic_DIGA A6321;Panasonic;DIGA A6321;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Panasonic_DIGA M6348;Panasonic;DIGA M6348;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Panasonic_DIGA M7248;Panasonic;DIGA M7248;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Panasonic_DIGA M8658;Panasonic;DIGA M8658;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Panasonic_Smart TV (2018);Panasonic;Smart TV (2018);GEMINI_API;no;TV;89;Value from Panasonic's official specification sheet for the TX-55FX750B.;proxy;;Average 2018;32.089024
+Panasonic_Smart TV (2019);Panasonic;Smart TV (2019);GEMINI_API;no;TV;117;Value found on Panasonic product information sheet for a 2019 55-inch model.;proxy;;Average 2019;45.75627
+Panasonic_Smart TV (2020);Panasonic;Smart TV (2020);GEMINI_API;no;TV;105;Value found on Panasonic UK & Ireland specifications for the 2020 TX-55HZ1000B 55-inch OLED TV.;proxy;;Average 2020;67.138485
+Panasonic_Smart TV (2021);Panasonic;Smart TV (2021);GEMINI_API;no;TV;102;Value from Panasonic's official product page for the TX-55JZ1000B (2021 model).;proxy;;Average 2021;58.537608
+Panasonic_VIERA (2012);Panasonic;VIERA (2012);GEMINI_API;no;TV;205;Value obtained from the technical specifications for Panasonic TX-P55ST50B.;proxy;;Average Generic;70
+Panasonic_VIERA (2013);Panasonic;VIERA (2013);GEMINI_API;no;TV;64;Value obtained from Panasonic's official specifications for the 2013 VIERA TX-L55ET60B/Y 55-inch LED TV.;strict;;Average Generic;70
+Panasonic_VIERA (2014);Panasonic;VIERA (2014);GEMINI_API;no;TV;106;The Panasonic TX-55AS800 (2014;strict;;Average Generic;70
+Panasonic_VIERA (2015);Panasonic;VIERA (2015);GEMINI_API;no;TV;112;Value from Panasonic official product specifications for the 2015 VIERA TX-55CX800E.;strict;;Average 2015;30
+Panasonic_VIERA (2016);Panasonic;VIERA (2016);GEMINI_API;no;TV;140.6;Value from DisplaySpecifications for Panasonic TC-55DX700 (2016;proxy;;Average 2016;19.5
+Panasonic_VIERA (2017);Panasonic;VIERA (2017);GEMINI_API;no;TV;120;Average consumption for Panasonic TX-55EZ950 (2017) from Kitele.;proxy;;Average 2017;34.904762
+Philipps_43PUS6804;Philipps;43PUS6804;GEMINI_API;no;TV;71;The power consumption (average) for Philips 43PUS6804 is 71 W;strict;;Average Generic;70
+Philipps_43PUS7304;Philipps;43PUS7304;GEMINI_API;no;TV;71;The Philips user manual and product specifications explicitly state the on-mode power consumption for the 43PUS7304.;strict;;Average Generic;70
+Philipps_43PUS8545;Philipps;43PUS8545;GEMINI_API;no;TV;65;Value obtained from official Philips Product Information Sheet and technical specifications.;strict;;Average Generic;70
+Philipps_50PUS620312;Philipps;50PUS620312;GEMINI_API;no;TV;62;The power consumption of 62 W is from the Philips Energy Label and product specifications.;strict;;Average Generic;70
+Philipps_50PUS6704;Philipps;50PUS6704;GEMINI_API;no;TV;72;The power consumption of 72 W is stated on the Philips energy label and product specifications.;strict;;Average Generic;70
+Philipps_55OLED934;Philipps;55OLED934;GEMINI_API;no;TV;144;Value found on Philips user manual and product page.;strict;;Average Generic;70
+Philipps_55PUS6101;Philipps;55PUS6101;GEMINI_API;no;TV;62;The typical/average power consumption in the switched-on state is 62 W;strict;;Average Generic;70
+Philipps_55PUS7304;Philipps;55PUS7304;GEMINI_API;no;TV;86;The power consumption is from the Philips product specification and energy label.;strict;;Average Generic;70
+Philipps_55PUS7394;Philipps;55PUS7394;GEMINI_API;no;TV;86;Value found on Philips energy label and specification sheets.;strict;;Average Generic;70
+Philipps_65PUS650312;Philipps;65PUS650312;GEMINI_API;no;TV;98;Value found on Philips product specifications and multiple reputable specification sites.;strict;;Average Generic;70
+Philipps_65PUS8505;Philipps;65PUS8505;GEMINI_API;no;TV;107;Value obtained from Philips' official specifications for SDR on-mode power demand (EU Energy card).;strict;;Average Generic;70
+Philipps_70PUS8105;Philipps;70PUS8105;GEMINI_API;no;TV;113;The SDR on-mode power consumption is from the Philips product datasheet/EU Energy card.;strict;;Average Generic;70
+Philipps_MT5591;Philipps;MT5591;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Philipps_MT5880;Philipps;MT5880;GEMINI_API;no;NULL;;NULL;null;;Average Generic;70
+Philipps_NetTV Series;Philipps;NetTV Series;GEMINI_API;no;TV;135;Power consumption from Philips 55PFL5703/F7 product specifications.;strict;;Average Generic;70
+Philipps_QM161E;Philipps;QM161E;GEMINI_API;no;TV;84;The SDR on-mode power consumption of 84 W for the Philips 55OLED807/12;proxy;;Average Generic;70
+Philipps_QM163E;Philipps;QM163E;GEMINI_API;no;TV;82;Value obtained from Philips official product page and energy label for 55PUS8807/12;proxy;;Average Generic;70
+Philipps_QM164E;Philipps;QM164E;GEMINI_API;no;TV;84;Value from Philips 55OLED807/12 energy label (QM164E is likely a chassis).;proxy;;Average Generic;70
+Samsung_Smart TV (2011);Samsung;Smart TV (2011);GEMINI_API;no;TV;110;Value obtained from an HDTVTest review for the Samsung UE55D8000 55-inch TV in default normal mode.;proxy;;Average Generic;70
+Samsung_Smart TV (2012);Samsung;Smart TV (2012);GEMINI_API;no;TV;110;Value is from the typical power consumption of the Samsung 55ES8000 model.;proxy;;Average Generic;70
+Samsung_Smart TV (2013);Samsung;Smart TV (2013);GEMINI_API;no;TV;60;Value found in B&H specs for Samsung UN55F6400AFXZA (2013 55 inch TV).;strict;;Average Generic;70
+Samsung_Smart TV (2014);Samsung;Smart TV (2014);GEMINI_API;no;TV;108;"Value from DisplayDB specifications for a 2014 55"" Samsung Smart TV in Eco Mode.";strict;;Average Generic;70
+Samsung_Smart TV (2015);Samsung;Smart TV (2015);GEMINI_API;no;TV;111;Value from the 2015 EU energy label for a 55-inch Samsung Smart TV.;proxy;;Average 2015;30
+Samsung_Smart TV (2016);Samsung;Smart TV (2016);GEMINI_API;no;TV;52;The SDR on-mode power consumption was found for the Samsung UN55KS8000;proxy;;Average 2016;19.5
+Samsung_Smart TV (2017);Samsung;Smart TV (2017);GEMINI_API;no;TV;98;Typical Power Consumption for Samsung QLED 4K Q7F 55 inch (2017) from specifications.;proxy;;Average 2017;34.904762
+Samsung_Smart TV (2018);Samsung;Smart TV (2018);GEMINI_API;no;TV;102;Value obtained from Samsung Q6 QLED 4K TV (2018) typical power consumption.;proxy;;Average 2018;32.089024
+Samsung_UTU6900E;Samsung;UTU6900E;GEMINI_API;no;TV;103;Value from EU energy label for Samsung UE55TU6905K.;proxy;;Average Generic;70
+Samsung_UTU8000E;Samsung;UTU8000E;GEMINI_API;no;TV;102;Value from Samsung UA55TU8000WXXY specifications (Typical Power Consumption).;proxy;;Average Generic;70
+Sharp_generic tv;Sharp;generic tv;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+Sharp_LC-50UI8652E;Sharp;LC-50UI8652E;GEMINI_API;no;TV;145;Value found as 'Average power consumption in standard work mode' from DisplaySpecifications for LC-55UI8652ES.;proxy;;Average Generic;70
+Sony_KD-43XE8005;Sony;KD-43XE8005;GEMINI_API;no;TV;70;Value found in manufacturer specifications.;strict;;Average Generic;70
+Sony_KD-43XF7005;Sony;KD-43XF7005;GEMINI_API;no;TV;64;Value found in Sony official specifications for the KD-43XF7005 model.;strict;;Average Generic;70
+Sony_KD-43XH8096;Sony;KD-43XH8096;GEMINI_API;no;TV;66;Value obtained from the official energy label for the exact model.;strict;;Average Generic;70
+Sony_KD-49XE7096;Sony;KD-49XE7096;GEMINI_API;no;TV;83;"Value obtained from Sony's official specifications for ""Standard"" power consumption.";strict;;Average Generic;70
+Sony_KD-55XD7005;Sony;KD-55XD7005;GEMINI_API;no;TV;112;Value found on Sony's official specifications and other reputable specification sites.;strict;;Average Generic;70
+Sony_KD-55XD8005;Sony;KD-55XD8005;GEMINI_API;no;TV;93;The power consumption in standard operation mode is 93W from Sony specifications.;strict;;Average Generic;70
+Sony_KD-55XD8577;Sony;KD-55XD8577;GEMINI_API;no;TV;103;The Sony KD-55XD8577's standard on-mode power consumption is 103W.;strict;;Average Generic;70
+Sony_KD-55XG8196;Sony;KD-55XG8196;GEMINI_API;no;TV;115;The standard on-mode power consumption is 115W;strict;;Average Generic;70
+Sony_KD-55XH8096;Sony;KD-55XH8096;GEMINI_API;no;TV;114;Value obtained from Sony UK specifications and an official EU product information sheet.;strict;;Average Generic;70
+Sony_KD-55XH9505;Sony;KD-55XH9505;GEMINI_API;no;TV;166;The SDR on-mode power consumption of 166 W was found on the product information sheet.;strict;;Average Generic;70
+Sony_KD-65A87;Sony;KD-65A87;GEMINI_API;no;TV;161;Value obtained from official Sony specifications and energy label.;strict;;Average Generic;70
+Sony_KD-75XG8599;Sony;KD-75XG8599;GEMINI_API;no;TV;158;Value found in Sony specifications and multiple reputable tech sites.;strict;;Average Generic;70
+Sony_KDL32EX726;Sony;KDL32EX726;GEMINI_API;no;TV;59;Value obtained from Tweakers specifications for KDL-32EX726.;strict;;Average Generic;70
+Sony_KDL32HX758;Sony;KDL32HX758;GEMINI_API;no;TV;87;Value obtained from Sony UK specifications for KDL-55HX755's Home mode power consumption.;proxy;;Average Generic;70
+Sony_KDL32W706B;Sony;KDL32W706B;GEMINI_API;no;TV;39;Value obtained from official Sony specifications and retailer product fiche for on-mode power consumption (SDR).;strict;;Average Generic;70
+Sony_KDL-32WD758;Sony;KDL-32WD758;GEMINI_API;no;TV;40;Value obtained from Sony's official specification sheet in standard mode.;strict;;Average Generic;70
+Sony_KDL50W815B;Sony;KDL50W815B;GEMINI_API;no;TV;51;Value from Sony UK specifications;strict;;Average Generic;70
+Sony_KDL55HX755;Sony;KDL55HX755;GEMINI_API;no;TV;87;Value obtained from Sony UK specifications for power consumption in operation (Home mode).;strict;;Average Generic;70
+Sony_KDL55W805A;Sony;KDL55W805A;GEMINI_API;no;TV;79;Value obtained from product information sheet listing on-mode power.;strict;;Average Generic;70
+Sony_KDL55W905A;Sony;KDL55W905A;GEMINI_API;no;TV;73.97;Derived from annual energy consumption (108 kWh/year) on Sony UK specifications.;strict;;Average Generic;70
+none_2KTV18;none;2KTV18;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_46WL863;none;46WL863;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_DigiCorder ISIO S;none;DigiCorder ISIO S;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_Digit ISIO S;none;Digit ISIO S;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_generic tv;none;generic tv;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_hgs1000s;none;hgs1000s;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_iCord MINI;none;iCord MINI;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
+none_SKWE20E21;none;SKWE20E21;SKIPPED;no;SKIPPED;;Generic/Invalid Name;skipped;;Average Generic;70
