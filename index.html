@@ -71,7 +71,7 @@ const FILE_EPREL = "eprel.csv";
 
 // Global State
 let tvDataMap = new Map(); // Key: "Make|Model"
-let eprelDataMap = new Map(); // Key: "Model" (For stricter searching)
+let eprelDataMap = new Map(); // Key: "Model" (modelIdentifier)
 let dbsReady = false;
 let processedWorkbook = null;
 let outputFilename = "updated_data.xlsx"; 
@@ -105,15 +105,16 @@ async function loadCsvMap(url, type) {
 
         if (type === 'tv') {
             // Index TV Data by "Make|Model"
+            // New schema columns: deviceMake, deviceModel, deviceType, energyConf, 
+            //   energySrc, powerOnModeGeneric, powerOnModeSDR, powerOnModeHDR
             json.forEach(row => {
-                const make = cleanString(row['Device Make']);
-                const model = cleanString(row['Device Model']);
+                const make = cleanString(row['deviceMake']);
+                const model = cleanString(row['deviceModel']);
                 tvDataMap.set(`${make}|${model}`, row);
             });
         } else {
-            // Index EPREL Data by "ModelIdentifier" (to allow checking Make as substring later)
-            // Note: Models might be duplicated in EPREL, strictly we take the last or first. 
-            // Using Map overrides previous, so we get the last entry.
+            // Index EPREL Data by "modelIdentifier"
+            // New schema has supplierOrTrademark for make matching
             json.forEach(row => {
                 const model = cleanString(row['modelIdentifier']);
                 if(model) eprelDataMap.set(model, row);
@@ -146,35 +147,37 @@ function getEnergyInfo(targetRow) {
     const make = cleanString(makeRaw);
     const model = cleanString(modelRaw);
     
-    // --- STEP 1: Check TV_ENERGY_DATA (Original Logic) ---
+    // --- STEP 1: Check TV_ENERGY_DATA ---
     const tvKey = `${make}|${model}`;
     const tvRow = tvDataMap.get(tvKey);
 
     let result = null;
 
     if (tvRow) {
-        const cat = tvRow['source'];
-        
-        // EPREL_LOCAL
-        if (cat === 'EPREL_LOCAL') {
-            result = { Energy_Source: "EPREL", Energy_Conf: "valid", Energy_Power: tvRow['powerOnModeSDR'] };
-        } 
-        // GEMINI_API
-        else if (cat === 'GEMINI_API') {
-            const deviceCheck = String(tvRow['deviceCheck'] || "").toUpperCase().trim();
-            const validTypes = ['TV', 'PROJECTOR'];
-            const confMissing = !tvRow['search_conf'];
-            const powerMissing = tvRow['powerOnModeSDR'] === undefined || tvRow['powerOnModeSDR'] === null || tvRow['powerOnModeSDR'] === "";
+        const energyConf = cleanString(tvRow['energyConf']);
+        const powerSDR = tvRow['powerOnModeSDR'];
+        const powerGeneric = tvRow['powerOnModeGeneric'];
 
-            if (!validTypes.includes(deviceCheck) || confMissing || powerMissing) {
-                result = { Energy_Source: "GEMINI", Energy_Conf: "generic", Energy_Power: tvRow['proxyPower'] };
-            } else {
-                result = { Energy_Source: "GEMINI", Energy_Conf: tvRow['search_conf'], Energy_Power: tvRow['powerOnModeSDR'] };
-            }
-        } 
-        // OTHER
-        else {
-            result = { Energy_Source: "GENERIC", Energy_Conf: "generic", Energy_Power: tvRow['proxyPower'] };
+        switch (energyConf) {
+            case 'eprel-strict':
+                result = { Energy_Source: "EPREL", Energy_Conf: "eprel-strict", Energy_Power: powerSDR };
+                break;
+            case 'eprel-proxy':
+                result = { Energy_Source: "EPREL", Energy_Conf: "eprel-proxy", Energy_Power: powerSDR };
+                break;
+            case 'gemini-strict':
+                result = { Energy_Source: "GEMINI", Energy_Conf: "gemini-strict", Energy_Power: powerSDR };
+                break;
+            case 'gemini-proxy':
+                result = { Energy_Source: "GEMINI", Energy_Conf: "gemini-proxy", Energy_Power: powerSDR };
+                break;
+            case 'fallback-proxy':
+                result = { Energy_Source: "FALLBACK", Energy_Conf: "fallback-proxy", Energy_Power: powerGeneric };
+                break;
+            default:
+                // Unknown energyConf — use generic power if available, else hardcoded default
+                result = { Energy_Source: "FALLBACK", Energy_Conf: "fallback-proxy", Energy_Power: powerGeneric || 70 };
+                break;
         }
     } else {
         // No match in TV DB
@@ -182,27 +185,23 @@ function getEnergyInfo(targetRow) {
     }
 
     // --- STEP 2: Extended Logic (Check EPREL.csv) ---
-    // Rule: If we didn't find a good match (currently "DEFAULT"), try EPREL file directly.
-    // NOTE: You can change this condition. If you want EPREL to *override* generic matches, 
-    // change to: if (result.Energy_Source === "DEFAULT" || result.Energy_Conf === "generic")
-    
-    if (result.Energy_Source === "DEFAULT" || result.Energy_Source === "GEMINI_API") {
+    // If the result is a default or fallback, attempt a direct EPREL lookup
+    if (result.Energy_Source === "DEFAULT" || result.Energy_Source === "FALLBACK") {
         
         // 1. Match Model
         const eprelRow = eprelDataMap.get(model);
         
         if (eprelRow) {
-            // 2. Strict Check: "Device Make" must be inside "organisationTitle"
-            // We use case-insensitive check to be safe, or remove .toLowerCase() for strict casing
-            const orgTitle = String(eprelRow['organisationTitle'] || "");
+            // 2. Strict Check: "Device Make" must be inside "supplierOrTrademark"
+            const supplier = String(eprelRow['supplierOrTrademark'] || "");
             
-            // Check if Make is contained in Org Title (Case Insensitive)
-            if (orgTitle.toLowerCase().includes(make.toLowerCase())) {
+            // Check if Make is contained in Supplier/Trademark (Case Insensitive)
+            if (supplier.toLowerCase().includes(make.toLowerCase())) {
                 
                 // 3. Match Found -> Override Result
                 return {
                     Energy_Source: "EPREL",
-                    Energy_Conf: "valid",
+                    Energy_Conf: "eprel-live",
                     Energy_Power: eprelRow['powerOnModeSDR']
                 };
             }
